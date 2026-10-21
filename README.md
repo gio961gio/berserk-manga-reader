@@ -4,8 +4,9 @@
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-green.svg)](https://developer.android.com/jetpack/compose)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org)
 [![Android](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026%2B)-red.svg)](https://developer.android.com)
+[![Language](https://img.shields.io/badge/Manga_Language-Italian_%F0%9F%87%AE%F0%9F%87%B9-red.svg)](#
 
-A complete project designed to download all chapters of **Berserk** organized by volume from web archives, convert them to CBZ archives, and read them comfortably via a modern native Android application built with **Kotlin** and **Jetpack Compose** (Material 3).
+A complete project designed to download all chapters of **Berserk in Italian** (*traduzione completa in lingua italiana*) organized by volume from web archives, convert them to CBZ archives, and read them comfortably via a modern native Android application built with **Kotlin** and **Jetpack Compose** (Material 3).
 
 <p align="center">
   <img src="assets/berserk_reader_mockup.png" alt="Berserk Reader Android App Mockup" width="100%" />
@@ -104,15 +105,16 @@ A modern, high-performance Android reader themed with a dark-fantasy aesthetic a
 
 ### ✨ Key Features:
 
-1. **Dual Reading Mode (Offline & Online):**
+1. **Complete Italian Edition (Lingua Italiana):** All 44 volumes and 404 chapters are fully indexed and translated in Italian, with localized chapter titles, volume summaries, and high-quality scans.
+2. **Dual Reading Mode (Offline & Online):**
    - **Offline Mode:** Select your local `Berserk_Manga` folder directly inside the app (with full Android 11+ `MANAGE_EXTERNAL_STORAGE` and SAF tree URI support). Read all pages instantly without an internet connection.
    - **Online Mode:** Built-in CDN streaming fallback if local files have not yet been transferred to device storage.
-2. **Home Screen Dashboard:**
+3. **Home Screen Dashboard:**
    - **"Continue Reading"** card: one-click resume from the exact last-read chapter and page.
    - Volume Grid: overview of all 44 volumes with covers, chapter counts, and reading progress indicators.
-3. **Volume Detail Screen:**
+4. **Volume Detail Screen:**
    - Detailed chapter listing with read checkmark indicators and instant chapter launching.
-4. **Immersive Reader Screen:**
+5. **Immersive Reader Screen:**
    - **Two reading modes:**
      - **Continuous Vertical Scroll:** Webtoon style with smooth fling physics.
      - **Horizontal Paged Mode:** Page-by-page swipe with natural pagination transitions.
