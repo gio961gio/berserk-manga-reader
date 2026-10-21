@@ -4,9 +4,12 @@
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-green.svg)](https://developer.android.com/jetpack/compose)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org)
 [![Android](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026%2B)-red.svg)](https://developer.android.com)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 A complete project designed to download all chapters of **Berserk** organized by volume from web archives, convert them to CBZ archives, and read them comfortably via a modern native Android application built with **Kotlin** and **Jetpack Compose** (Material 3).
+
+<p align="center">
+  <img src="assets/berserk_reader_mockup.png" alt="Berserk Reader Android App Mockup" width="100%" />
+</p>
 
 ---
 
@@ -138,6 +141,5 @@ The compiled APK will be generated at:
 
 ---
 
-## 📄 License
-This project is open-source and licensed under the [MIT License](LICENSE).
-Manga content and artwork are copyright of their respective creators and publishers.
+## ⚖️ Copyright Notice
+Manga content and artwork are copyright of Kentaro Miura, Studio Gaga, and Hakusensha.
