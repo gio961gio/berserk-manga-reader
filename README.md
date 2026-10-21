@@ -1,114 +1,143 @@
 # Berserk Manga Downloader & Android Reader App
 
-Progetto completo per scaricare tutti i capitoli di **Berserk** suddivisi per volumi da OnePiecePower e leggerli comodamente tramite un'app Android nativa moderna sviluppata in **Kotlin** e **Jetpack Compose**.
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
+[![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-green.svg)](https://developer.android.com/jetpack/compose)
+[![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org)
+[![Android](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026%2B)-red.svg)](https://developer.android.com)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
+A complete project designed to download all chapters of **Berserk** organized by volume from web archives, convert them to CBZ archives, and read them comfortably via a modern native Android application built with **Kotlin** and **Jetpack Compose** (Material 3).
 
 ---
 
-## 📁 Struttura della Cartella
+## ⚠️ Disclaimer
+
+> [!IMPORTANT]
+> This project was developed strictly for **educational, research, and personal archival purposes**.  
+> **Berserk** is the intellectual property of **Kentaro Miura / Studio Gaga / Hakusensha**.  
+> Please support the official release by purchasing the physical manga volumes or official digital editions from licensed publishers (e.g., Dark Horse Comics, Panini Comics).
+
+---
+
+## 📁 Repository Structure
 
 ```
 berserk_reader/
-├── Berserk_Manga/              # Cartella con tutti i volumi e capitoli scaricati
+├── Berserk_Manga/              # Downloaded manga directory (local storage)
 │   ├── Volume 01/
-│   │   ├── Capitolo 000-01 - Il guerriero nero/
+│   │   ├── Chapter 000-01/
 │   │   │   ├── 01.jpg
-│   │   │   ├── 02.jpg
 │   │   │   └── ...
-│   │   ├── Capitolo 000-02 - Il marchio/
-│   │   └── Capitolo 000-03 - Gli angeli custodi dei desideri 1/
-│   ├── Volume 02/
 │   └── ...
-├── download_berserk.py          # Script Python per scaricare volumi e capitoli
-├── export_to_cbz.py             # Script per convertire i volumi in formato .CBZ
-├── full_catalog.json           # Indice completo di tutti i 44 volumi e 404 capitoli
-└── BerserkReaderApp/            # Progetto Android completo in Kotlin + Jetpack Compose
-    ├── app/
-    │   ├── src/main/java/com/berserk/reader/
-    │   │   ├── MainActivity.kt
-    │   │   ├── navigation/AppNavigation.kt
-    │   │   ├── model/MangaModels.kt
-    │   │   ├── data/MangaRepository.kt & PreferencesManager.kt
-    │   │   └── ui/screens/ (Home, VolumeDetail, Reader)
-    │   └── src/main/assets/berserk_catalog.json
-    └── build.gradle.kts
+├── download_berserk.py          # Multithreaded Python scraper and downloader
+├── export_to_cbz.py             # Script to convert manga volumes into .CBZ format
+├── full_catalog.json           # Complete catalog indexing all 44 volumes & 404 chapters
+├── generate_full_catalog.py    # Generator script for catalog indexing
+├── BerserkReaderApp/            # Modern Android Reader app (Kotlin + Jetpack Compose)
+│   ├── app/
+│   │   ├── src/main/java/com/berserk/reader/
+│   │   │   ├── MainActivity.kt
+│   │   │   ├── navigation/AppNavigation.kt
+│   │   │   ├── model/MangaModels.kt
+│   │   │   ├── data/MangaRepository.kt & PreferencesManager.kt
+│   │   │   └── ui/screens/ (HomeScreen, VolumeDetailScreen, ReaderScreen)
+│   │   └── src/main/assets/berserk_catalog.json
+│   └── build.gradle.kts
+└── README.md
 ```
 
 ---
 
-## 🚀 1. Downloader Python (`download_berserk.py`)
+## 🚀 1. Python Manga Downloader (`download_berserk.py`)
 
-Lo script gestisce il download automatico, la sanitizzazione dei nomi per Windows e Android, e la ripresa automatica dei download interrotti (evita di riscaricare le pagine già presenti).
+A multithreaded scraper built with `requests`, `urllib3`, and `ThreadPoolExecutor`. It features automatic network retry, sanitized directory naming for Windows/Android Scoped Storage, and resumable execution (skips already downloaded pages).
 
-### Comandi utili:
+### Usage:
 
-- **Scaricare tutti i 44 volumi:**
-  ```powershell
+- **Download all 44 volumes:**
+  ```bash
   python download_berserk.py --all
   ```
 
-- **Scaricare volumi specifici (es. Volumi da 1 a 5):**
-  ```powershell
+- **Download a specific volume range (e.g. Volumes 1 to 5):**
+  ```bash
   python download_berserk.py --volume 1-5
   ```
 
-- **Scaricare un singolo volume (es. Volume 10):**
-  ```powershell
+- **Download a single volume (e.g. Volume 10):**
+  ```bash
   python download_berserk.py --volume 10
   ```
 
-- **Specificare una cartella di destinazione personalizzata:**
-  ```powershell
+- **Specify a custom destination folder:**
+  ```bash
   python download_berserk.py --all --output "D:/Manga/Berserk"
   ```
 
 ---
 
-## 📦 2. Esportatore CBZ (`export_to_cbz.py`)
+## 📦 2. CBZ Exporter (`export_to_cbz.py`)
 
-Se desideri avere i volumi anche in formato `.cbz` (compatibile con Tachiyomi, Mihon, Kuro Reader, Perfect Viewer, CDisplayEx, ecc.):
+Converts downloaded volumes into standard `.cbz` comic book archives compatible with external e-readers (such as Mihon, Tachiyomi, Kuro Reader, Perfect Viewer, CDisplayEx):
 
-```powershell
-# Esporta tutti i volumi scaricati in file .cbz
+```bash
+# Export all downloaded volumes to .cbz
 python export_to_cbz.py
 
-# Esporta solo il volume 1
+# Export a single volume
 python export_to_cbz.py --volume 1
 ```
 
 ---
 
-## 📱 3. App Android (`BerserkReaderApp`)
+## 📱 3. Android Reader App (`BerserkReaderApp`)
 
-Un'applicazione Android moderna a tema scuro (ispirata all'estetica dark fantasy di Berserk) con accenti rosso cremisi, sviluppata con:
+A modern, high-performance Android reader themed with a dark-fantasy aesthetic and crimson red accents, built using:
 - **Kotlin** & **Jetpack Compose**
-- **Material 3**
-- **Navigation Compose**
-- **Coil** per caricamento immagini ad alte prestazioni con cache disco (512 MB) e memoria
-- **Zoom & Pan a due dita (Pinch-to-zoom)** e doppio tocco per esaminare le tavole dettagliate di Kentaro Miura.
+- **Material 3 Design System**
+- **Navigation Compose** with deep-link query parameter state handling
+- **Coil** for asynchronous image decoding with 512 MB disk cache and memory caching
+- **Gesture handling:** pinch-to-zoom, pan boundaries, and double-tap zoom to inspect artwork details.
 
-### ✨ Funzionalità dell'App:
+### ✨ Key Features:
 
-1. **Doppia Modalità (Offline & Online):**
-   - **Offline:** Puoi copiare la cartella `Berserk_Manga` sullo smartphone (es. in `/sdcard/Download/Berserk_Manga`) e selezionarla nell'app: leggerà tutte le pagine istantaneamente da memoria locale senza connessione internet!
-   - **Online:** Anche se non hai ancora trasferito tutti i file sul telefono, l'app include un fallback automatico che riproduce e scarica le scan in streaming direttamente da CDN!
-2. **Schermata Home:**
-   - Banner **"Continua a Leggere"** per riprendere subito l'ultimo capitolo e pagina esatta.
-   - Griglia di tutti i **44 Volumi** con copertina, conteggio capitoli e indicatore di progresso.
-3. **Schermata Dettaglio Volume:**
-   - Lista completa dei capitoli con titolo, badge di lettura (segno di spunta verde per capitoli già letti) e pulsante rapido per iniziare.
-4. **Lettore Manga Avanzato:**
-   - **Due modalità di lettura:**
-     - **Scroll Verticale Continuo:** stile Webtoon / infinite scroll, ideale per smartphone.
-     - **Paginato Orizzontale:** sfoglia pagina per pagina con zoom fluido.
-   - **Interfaccia immersiva a scomparsa:** tocca il centro dello schermo per mostrare/nascondere la barra superiore e inferiore con cursore pagine e pulsanti Capitolo Precedente/Successivo.
-   - **Salvataggio automatico:** memorizza l'ultimo capitolo e pagina letta.
+1. **Dual Reading Mode (Offline & Online):**
+   - **Offline Mode:** Select your local `Berserk_Manga` folder directly inside the app (with full Android 11+ `MANAGE_EXTERNAL_STORAGE` and SAF tree URI support). Read all pages instantly without an internet connection.
+   - **Online Mode:** Built-in CDN streaming fallback if local files have not yet been transferred to device storage.
+2. **Home Screen Dashboard:**
+   - **"Continue Reading"** card: one-click resume from the exact last-read chapter and page.
+   - Volume Grid: overview of all 44 volumes with covers, chapter counts, and reading progress indicators.
+3. **Volume Detail Screen:**
+   - Detailed chapter listing with read checkmark indicators and instant chapter launching.
+4. **Immersive Reader Screen:**
+   - **Two reading modes:**
+     - **Continuous Vertical Scroll:** Webtoon style with smooth fling physics.
+     - **Horizontal Paged Mode:** Page-by-page swipe with natural pagination transitions.
+   - **Auto-hiding System Bars & UI Overlays:** Tap screen center to toggle controls, chapter navigation, and slider.
+   - **State Persistence:** Preserves scroll position across screen rotations and chapter switches without UI freeze.
 
-### Come compilare o installare l'App:
-- **Aprire in Android Studio:**
-  Basta aprire la cartella `BerserkReaderApp` con Android Studio e cliccare su **Run** o **Build > Build APK**.
-- **Da linea di comando con Gradle:**
-  ```powershell
-  cd BerserkReaderApp
-  .\gradlew assembleDebug
-  ```
-  L'APK generato sarà pronto in `app/build/outputs/apk/debug/app-debug.apk`.
+---
+
+## 🛠️ Building & Installing the App
+
+### Option A: Install Pre-built APK
+Download the compiled `BerserkReader.apk` from the [GitHub Releases](https://github.com/gio961gio/berserk-manga-reader/releases) page and install it directly on your Android phone or tablet.
+
+### Option B: Build from Source with Android Studio
+1. Open the `BerserkReaderApp` folder in **Android Studio** (Koala / Ladybug or newer).
+2. Sync the project with Gradle files.
+3. Click **Run > Run 'app'** or **Build > Build APK(s)**.
+
+### Option C: Build from Command Line
+```bash
+cd BerserkReaderApp
+./gradlew assembleDebug
+```
+The compiled APK will be generated at:
+`BerserkReaderApp/app/build/outputs/apk/debug/app-debug.apk`
+
+---
+
+## 📄 License
+This project is open-source and licensed under the [MIT License](LICENSE).
+Manga content and artwork are copyright of their respective creators and publishers.
