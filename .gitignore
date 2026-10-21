@@ -1,0 +1,41 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+.navigation/
+captures/
+output.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+
+# Manga folders & Large media
+Berserk_Manga/
+CBZ_Volumes/
+downloads/
+temp/
+*.cbz
+*.zip
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

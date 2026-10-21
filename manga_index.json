@@ -1,0 +1,1838 @@
+[
+  {
+    "volume": "Volume 01",
+    "chapters": [
+      {
+        "title": "Capitolo 000-01 - Il guerriero nero",
+        "href": "reader/000-01"
+      },
+      {
+        "title": "Capitolo 000-02 - Il marchio",
+        "href": "reader/000-02"
+      },
+      {
+        "title": "Capitolo 000-03 - Gli angeli custodi dei desideri 1",
+        "href": "reader/000-03"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 02",
+    "chapters": [
+      {
+        "title": "Capitolo 000-04 - Gli angeli custodi dei desideri 2",
+        "href": "reader/000-04"
+      },
+      {
+        "title": "Capitolo 000-05 - Gli angeli custodi dei desideri 3",
+        "href": "reader/000-05"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 03",
+    "chapters": [
+      {
+        "title": "Capitolo 000-06 - Gli angeli custodi dei desideri 4",
+        "href": "reader/000-06"
+      },
+      {
+        "title": "Capitolo 000-07 - Gli angeli custodi dei desideri 5",
+        "href": "reader/000-07"
+      },
+      {
+        "title": "Capitolo 000-08 - Gli angeli custodi dei desideri 6",
+        "href": "reader/000-08"
+      },
+      {
+        "title": "Capitolo 000-09 - L'età dell'oro 1",
+        "href": "reader/000-09"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 04",
+    "chapters": [
+      {
+        "title": "Capitolo 000-10 - L'età dell'oro 2",
+        "href": "reader/000-10"
+      },
+      {
+        "title": "Capitolo 000-11 - L'età dell'oro 3",
+        "href": "reader/000-11"
+      },
+      {
+        "title": "Capitolo 000-12 - L'età dell'oro 4",
+        "href": "reader/000-12"
+      },
+      {
+        "title": "Capitolo 000-13 - L'età dell'oro 5",
+        "href": "reader/000-13"
+      },
+      {
+        "title": "Capitolo 000-14 - L'età dell'oro 6",
+        "href": "reader/000-14"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 05",
+    "chapters": [
+      {
+        "title": "Capitolo 000-15 - L'età dell'oro 7",
+        "href": "reader/000-15"
+      },
+      {
+        "title": "Capitolo 000-16 - L'età dell'oro 8",
+        "href": "reader/000-16"
+      },
+      {
+        "title": "Capitolo 001 - Il vento della spada",
+        "href": "reader/001"
+      },
+      {
+        "title": "Capitolo 002 - Zodd l'immortale 1",
+        "href": "reader/002"
+      },
+      {
+        "title": "Capitolo 003 - Zodd l'immortale 2",
+        "href": "reader/003"
+      },
+      {
+        "title": "Capitolo 004 - Zodd l'immortale 3",
+        "href": "reader/004"
+      },
+      {
+        "title": "Capitolo 005 - Zodd l'immortale 4",
+        "href": "reader/005"
+      },
+      {
+        "title": "Capitolo 006 - Il padrone della spada 1",
+        "href": "reader/006"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 06",
+    "chapters": [
+      {
+        "title": "Capitolo 007 - Il padrone della spada 2",
+        "href": "reader/007"
+      },
+      {
+        "title": "Capitolo 008 - L'assassino 1",
+        "href": "reader/008"
+      },
+      {
+        "title": "Capitolo 009 - L'assassino 2",
+        "href": "reader/009"
+      },
+      {
+        "title": "Capitolo 010 - L'assassino 3",
+        "href": "reader/010"
+      },
+      {
+        "title": "Capitolo 011 - L'assassino 4",
+        "href": "reader/011"
+      },
+      {
+        "title": "Capitolo 012 - Cose preziose",
+        "href": "reader/012"
+      },
+      {
+        "title": "Capitolo 013 - Scendere in campo",
+        "href": "reader/013"
+      },
+      {
+        "title": "Capitolo 014 - La barraglia",
+        "href": "reader/014"
+      },
+      {
+        "title": "Capitolo 015 - Caska 1",
+        "href": "reader/015"
+      },
+      {
+        "title": "Capitolo 016 - Caska 2",
+        "href": "reader/016"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 07",
+    "chapters": [
+      {
+        "title": "Capitolo 017 - Caska 3",
+        "href": "reader/017"
+      },
+      {
+        "title": "Capitolo 018 - Viaggio suicida 1",
+        "href": "reader/018"
+      },
+      {
+        "title": "Capitolo 019 - Viaggio suicida 2",
+        "href": "reader/019"
+      },
+      {
+        "title": "Capitolo 020 - Viaggio suicida 3",
+        "href": "reader/020"
+      },
+      {
+        "title": "Capitolo 021 - Sopravvivere",
+        "href": "reader/021"
+      },
+      {
+        "title": "Capitolo 022 - Il falò dei sogni",
+        "href": "reader/022"
+      },
+      {
+        "title": "Capitolo 023 - La battaglia per la conquista di Dordrey 1",
+        "href": "reader/023"
+      },
+      {
+        "title": "Capitolo 024 - La battaglia per la conquista di Dordrey 2",
+        "href": "reader/024"
+      },
+      {
+        "title": "Capitolo 025 - La battaglia per la conquista di Dordrey 3",
+        "href": "reader/025"
+      },
+      {
+        "title": "Capitolo 026 - La battaglia per la conquista di Dordrey 4",
+        "href": "reader/026"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 08",
+    "chapters": [
+      {
+        "title": "Capitolo 027 - La battaglia per la conquista di Dordrey 5",
+        "href": "reader/027"
+      },
+      {
+        "title": "Capitolo 028 - La battaglia per la conquista di Dordrey 6",
+        "href": "reader/028"
+      },
+      {
+        "title": "Capitolo 029 - Il trionfo",
+        "href": "reader/029"
+      },
+      {
+        "title": "Capitolo 030 - Il momento di gloria",
+        "href": "reader/030"
+      },
+      {
+        "title": "Capitolo 031 - Una lapide di fiamme 1",
+        "href": "reader/031"
+      },
+      {
+        "title": "Capitolo 032 - Una lapide di fiamme 2",
+        "href": "reader/032"
+      },
+      {
+        "title": "Capitolo 033 - In una notte nevosa",
+        "href": "reader/033"
+      },
+      {
+        "title": "Capitolo 034 - Il giorno della partenza 1",
+        "href": "reader/034"
+      },
+      {
+        "title": "Capitolo 035 - Il giorno della partenza 2",
+        "href": "reader/035"
+      },
+      {
+        "title": "Capitolo 036 - Il giorno della partenza 3",
+        "href": "reader/036"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 09",
+    "chapters": [
+      {
+        "title": "Capitolo 037 - Il cavaliere del teschio",
+        "href": "reader/037"
+      },
+      {
+        "title": "Capitolo 038 - L'inizio della notte eterna",
+        "href": "reader/038"
+      },
+      {
+        "title": "Capitolo 039 - Il falco caduto",
+        "href": "reader/039"
+      },
+      {
+        "title": "Capitolo 040 - L'epilogo del sogno",
+        "href": "reader/040"
+      },
+      {
+        "title": "Capitolo 041 - La contesa",
+        "href": "reader/041"
+      },
+      {
+        "title": "Capitolo 042 - I fuggiaschi",
+        "href": "reader/042"
+      },
+      {
+        "title": "Capitolo 043 - Il guerriero",
+        "href": "reader/043"
+      },
+      {
+        "title": "Capitolo 044 - Compagni d'arma",
+        "href": "reader/044"
+      },
+      {
+        "title": "Capitolo 045 - Confessioni",
+        "href": "reader/045"
+      },
+      {
+        "title": "Capitolo 046 - Ferite 1",
+        "href": "reader/046"
+      },
+      {
+        "title": "Capitolo 047 - Ferite 2",
+        "href": "reader/047"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 10",
+    "chapters": [
+      {
+        "title": "Capitolo 048 - Scintille in punta di spade",
+        "href": "reader/048"
+      },
+      {
+        "title": "Capitolo 049 - Fra le mura di Windom 1",
+        "href": "reader/049"
+      },
+      {
+        "title": "Capitolo 050 - Fra le mura di Windom 2",
+        "href": "reader/050"
+      },
+      {
+        "title": "Capitolo 051 - La vigilia della festa 1",
+        "href": "reader/051"
+      },
+      {
+        "title": "Capitolo 052 - La vigilia della festa 2",
+        "href": "reader/052"
+      },
+      {
+        "title": "Capitolo 053 - Il luogo sigillato per mille anni",
+        "href": "reader/053"
+      },
+      {
+        "title": "Capitolo 054 - Rincontrarsi nelle tenebre",
+        "href": "reader/054"
+      },
+      {
+        "title": "Capitolo 055 - Una scia di sangue",
+        "href": "reader/055"
+      },
+      {
+        "title": "Capitolo 056 - I barkilaka 1",
+        "href": "reader/056"
+      },
+      {
+        "title": "Capitolo 057 - I barkilaka 2",
+        "href": "reader/057"
+      },
+      {
+        "title": "Capitolo 058 - Il fiore del castello di pietra",
+        "href": "reader/058"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 11",
+    "chapters": [
+      {
+        "title": "Capitolo 059 - Cani infernali 1",
+        "href": "reader/059"
+      },
+      {
+        "title": "Capitolo 060 - Cani infernali 2",
+        "href": "reader/060"
+      },
+      {
+        "title": "Capitolo 061 - Cani infernali 3",
+        "href": "reader/061"
+      },
+      {
+        "title": "Capitolo 062 - Cani infernali 4",
+        "href": "reader/062"
+      },
+      {
+        "title": "Capitolo 063 - Latrati di follia",
+        "href": "reader/063"
+      },
+      {
+        "title": "Capitolo 064 - Tragedia nel bosco",
+        "href": "reader/064"
+      },
+      {
+        "title": "Capitolo 065 - Battaglia mortale 1",
+        "href": "reader/065"
+      },
+      {
+        "title": "Capitolo 066 - Battaglia mortale 2",
+        "href": "reader/066"
+      },
+      {
+        "title": "Capitolo 067 - L'armatura nel cuore",
+        "href": "reader/067"
+      },
+      {
+        "title": "Capitolo 068 - L'essere giunto in volo...",
+        "href": "reader/068"
+      },
+      {
+        "title": "Capitolo 069 - L'immortale ritorna",
+        "href": "reader/069"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 12",
+    "chapters": [
+      {
+        "title": "Capitolo 070 - Il requiem del vento",
+        "href": "reader/070"
+      },
+      {
+        "title": "Capitolo 071 - Guerrieri al tramonto",
+        "href": "reader/071"
+      },
+      {
+        "title": "Capitolo 072 - Il ragazzo nel vicolo",
+        "href": "reader/072"
+      },
+      {
+        "title": "Capitolo 073 - Eclissi",
+        "href": "reader/073"
+      },
+      {
+        "title": "Capitolo 074 - Il momento promesso",
+        "href": "reader/074"
+      },
+      {
+        "title": "Capitolo 075 - L'avvento",
+        "href": "reader/075"
+      },
+      {
+        "title": "Capitolo 076 - Mostri disumani",
+        "href": "reader/076"
+      },
+      {
+        "title": "Capitolo 077 - Il castello",
+        "href": "reader/077"
+      },
+      {
+        "title": "Capitolo 078 - Separazione definitiva",
+        "href": "reader/078"
+      },
+      {
+        "title": "Capitolo 079 -  Il banchetto",
+        "href": "reader/079"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 13",
+    "chapters": [
+      {
+        "title": "Capitolo 080 - Tempesta di morte 1",
+        "href": "reader/080"
+      },
+      {
+        "title": "Capitolo 081 - Tempesta di morte 2",
+        "href": "reader/081"
+      },
+      {
+        "title": "Capitolo 082 - Il dio degli abissi",
+        "href": "reader/082"
+      },
+      {
+        "title": "Capitolo 083 - Il dio degli abissi 2",
+        "href": "reader/083"
+      },
+      {
+        "title": "Capitolo 084 - Sangue fresco",
+        "href": "reader/084"
+      },
+      {
+        "title": "Capitolo 085 - Movimento fetale",
+        "href": "reader/085"
+      },
+      {
+        "title": "Capitolo 086 - La nascita",
+        "href": "reader/086"
+      },
+      {
+        "title": "Capitolo 087 - L'immagine persistente dell'occhio sinistro",
+        "href": "reader/087"
+      },
+      {
+        "title": "Capitolo 088 - L'evasione",
+        "href": "reader/088"
+      },
+      {
+        "title": "Capitolo 089 - Risvegliarsi in un incubo",
+        "href": "reader/089"
+      },
+      {
+        "title": "Capitolo 090 - Corsa a perdifiato",
+        "href": "reader/090"
+      },
+      {
+        "title": "Capitolo 091 - Dichiarazione di guerra",
+        "href": "reader/091"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 14",
+    "chapters": [
+      {
+        "title": "Capitolo 092 - Il male in fasce",
+        "href": "reader/092"
+      },
+      {
+        "title": "Capitolo 093 - L'armamento",
+        "href": "reader/093"
+      },
+      {
+        "title": "Capitolo 094 - Il cacciatore di draghi",
+        "href": "reader/094"
+      },
+      {
+        "title": "Capitolo 095 - I capitoli della condanna: Lost Children - Il ritorno del guerriero nero",
+        "href": "reader/095"
+      },
+      {
+        "title": "Capitolo 096 - Gli elfi della valle della nebbia",
+        "href": "reader/096"
+      },
+      {
+        "title": "Capitolo 097 - Jill",
+        "href": "reader/097"
+      },
+      {
+        "title": "Capitolo 098 - Venuti dal cielo",
+        "href": "reader/098"
+      },
+      {
+        "title": "Capitolo 099 - Pargoli insoliti",
+        "href": "reader/099"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 15",
+    "chapters": [
+      {
+        "title": "Capitolo 100 - La regina",
+        "href": "reader/100"
+      },
+      {
+        "title": "Capitolo 101 - Fuochi fatui",
+        "href": "reader/101"
+      },
+      {
+        "title": "Capitolo 102 - Pirkaf dagli occhi rossi",
+        "href": "reader/102"
+      },
+      {
+        "title": "Capitolo 103 - La ragazza dei ricordi",
+        "href": "reader/103"
+      },
+      {
+        "title": "Capitolo 104 - Il mondo degli esseri con le ali",
+        "href": "reader/104"
+      },
+      {
+        "title": "Capitolo 105 - I guardiani 1",
+        "href": "reader/105"
+      },
+      {
+        "title": "Capitolo 106 - I guardiani 2",
+        "href": "reader/106"
+      },
+      {
+        "title": "Capitolo 107 - Gli inseguitori",
+        "href": "reader/107"
+      },
+      {
+        "title": "Capitolo 108 - La valle della nebbia 1",
+        "href": "reader/108"
+      },
+      {
+        "title": "Capitolo 109 - La valle della nebbia 2",
+        "href": "reader/109"
+      },
+      {
+        "title": "Capitolo 110 - Bozzoli",
+        "href": "reader/110"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 16",
+    "chapters": [
+      {
+        "title": "Capitolo 111 - Mostri",
+        "href": "reader/111"
+      },
+      {
+        "title": "Capitolo 112 - Il male in cielo",
+        "href": "reader/112"
+      },
+      {
+        "title": "Capitolo 113 - La notte si tinge di sangue",
+        "href": "reader/113"
+      },
+      {
+        "title": "Capitolo 114 - Tra il male e l'uomo",
+        "href": "reader/114"
+      },
+      {
+        "title": "Capitolo 115 - Lucciole",
+        "href": "reader/115"
+      },
+      {
+        "title": "Capitolo 116 - Ritorno a casa",
+        "href": "reader/116"
+      },
+      {
+        "title": "Capitolo 117 - Un elfo nel cielo",
+        "href": "reader/117"
+      },
+      {
+        "title": "Capitolo 118 - I capitoli della condanna: La catena immobile - La belva delle tenebre",
+        "href": "reader/118"
+      },
+      {
+        "title": "Capitolo 119 - L'ordine della sacra catena 1",
+        "href": "reader/119"
+      },
+      {
+        "title": "Capitolo 120 - L'ordine della sacra catena 2",
+        "href": "reader/120"
+      },
+      {
+        "title": "Capitolo 121 - L'idolo infranto",
+        "href": "reader/121"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 17",
+    "chapters": [
+      {
+        "title": "Capitolo 122 - Colei che non vede",
+        "href": "reader/122"
+      },
+      {
+        "title": "Capitolo 123 - La notte dei miracoli",
+        "href": "reader/123"
+      },
+      {
+        "title": "Capitolo 124 - Il ricordo",
+        "href": "reader/124"
+      },
+      {
+        "title": "Capitolo 125 - La mattina della verità",
+        "href": "reader/125"
+      },
+      {
+        "title": "Capitolo 126 - I capitoli della condanna: La festa della rinascita - La rivelazione divina 1",
+        "href": "reader/126"
+      },
+      {
+        "title": "Capitolo 127 - La rivelazione divina 2",
+        "href": "reader/127"
+      },
+      {
+        "title": "Capitolo 128 - La rivelazione divina 3",
+        "href": "reader/128"
+      },
+      {
+        "title": "Capitolo 129 - La crepa nella lama",
+        "href": "reader/129"
+      },
+      {
+        "title": "Capitolo 130 - L'esile fiamma",
+        "href": "reader/130"
+      },
+      {
+        "title": "Capitolo 131 - Verso il luogo sacro 1",
+        "href": "reader/131"
+      },
+      {
+        "title": "Capitolo 132 - Verso il luogo sacro 2",
+        "href": "reader/132"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 18",
+    "chapters": [
+      {
+        "title": "Capitolo 133 - La ricognizione dei Kushan 1",
+        "href": "reader/133"
+      },
+      {
+        "title": "Capitolo 134 - La ricognizione dei Kushan 2",
+        "href": "reader/134"
+      },
+      {
+        "title": "Capitolo 135 - La torre delle ombre 1",
+        "href": "reader/135"
+      },
+      {
+        "title": "Capitolo 136 - La torre delle ombre 2",
+        "href": "reader/136"
+      },
+      {
+        "title": "Capitolo 137 - I figli dell'ombra",
+        "href": "reader/137"
+      },
+      {
+        "title": "Capitolo 138 - Il fanatico",
+        "href": "reader/138"
+      },
+      {
+        "title": "Capitolo 139 - Le viscere del luogo sacro",
+        "href": "reader/139"
+      },
+      {
+        "title": "Capitolo 140 - La strega",
+        "href": "reader/140"
+      },
+      {
+        "title": "Capitolo 141 - La strada dei mostri 1",
+        "href": "reader/141"
+      },
+      {
+        "title": "Capitolo 142 - La strada dei mostri 2",
+        "href": "reader/142"
+      },
+      {
+        "title": "Capitolo 143 - Le colonne di fuoco",
+        "href": "reader/143"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 19",
+    "chapters": [
+      {
+        "title": "Capitolo 144 - Il guerriero nero nel luogo sacro",
+        "href": "reader/144"
+      },
+      {
+        "title": "Capitolo 145 - Una corsa disperata",
+        "href": "reader/145"
+      },
+      {
+        "title": "Capitolo 146 - Il ragazzo ambizioso",
+        "href": "reader/146"
+      },
+      {
+        "title": "Capitolo 147 - La caverna del male",
+        "href": "reader/147"
+      },
+      {
+        "title": "Capitolo 148 - Di nuovo insieme",
+        "href": "reader/148"
+      },
+      {
+        "title": "Capitolo 149 - Il soldato in agguato",
+        "href": "reader/149"
+      },
+      {
+        "title": "Capitolo 150 - Il precipizio",
+        "href": "reader/150"
+      },
+      {
+        "title": "Capitolo 151 - Le prigioniere",
+        "href": "reader/151"
+      },
+      {
+        "title": "Capitolo 152 - La vergine di ferro",
+        "href": "reader/152"
+      },
+      {
+        "title": "Capitolo 153 - Il sangue dei morti 1",
+        "href": "reader/153"
+      },
+      {
+        "title": "Capitolo 154 - Il sangue dei morti 2",
+        "href": "reader/154"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 20",
+    "chapters": [
+      {
+        "title": "Capitolo 155 - La tela del ragno",
+        "href": "reader/155"
+      },
+      {
+        "title": "Capitolo 156 - Chi vola in alto e chi striscia sul fondo",
+        "href": "reader/156"
+      },
+      {
+        "title": "Capitolo 157 - Gli angeli infernali",
+        "href": "reader/157"
+      },
+      {
+        "title": "Capitolo 158 - Lo sconosciuto in fondo alla buca",
+        "href": "reader/158"
+      },
+      {
+        "title": "Capitolo 159 - Chi ha paura",
+        "href": "reader/159"
+      },
+      {
+        "title": "Capitolo 160 - Il segno",
+        "href": "reader/160"
+      },
+      {
+        "title": "Capitolo 161 - Il martirio",
+        "href": "reader/161"
+      },
+      {
+        "title": "Capitolo 162 - La distruzione",
+        "href": "reader/162"
+      },
+      {
+        "title": "Capitolo 163 - L'ombra dell'idea 1",
+        "href": "reader/163"
+      },
+      {
+        "title": "Capitolo 164 - L'ombra dell'idea 2",
+        "href": "reader/164"
+      },
+      {
+        "title": "Capitolo 165 - L'ombra dell'idea 3",
+        "href": "reader/165"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 21",
+    "chapters": [
+      {
+        "title": "Capitolo 166 - Il pesce che smuove la superficie dell'acqua",
+        "href": "reader/166"
+      },
+      {
+        "title": "Capitolo 167 - Il prete mostruoso 1",
+        "href": "reader/167"
+      },
+      {
+        "title": "Capitolo 168 - Il prete mostruoso 2",
+        "href": "reader/168"
+      },
+      {
+        "title": "Capitolo 169 - Chi prega e chi lotta",
+        "href": "reader/169"
+      },
+      {
+        "title": "Capitolo 170 - L'onda del buio 1",
+        "href": "reader/170"
+      },
+      {
+        "title": "Capitolo 171 - L'onda del buio 2",
+        "href": "reader/171"
+      },
+      {
+        "title": "Capitolo 172 - La risonanza",
+        "href": "reader/172"
+      },
+      {
+        "title": "Capitolo 173 - E il cielo cadde",
+        "href": "reader/173"
+      },
+      {
+        "title": "Capitolo 174 - L'alba",
+        "href": "reader/174"
+      },
+      {
+        "title": "Capitolo 175 - L'apparizione",
+        "href": "reader/175"
+      },
+      {
+        "title": "Capitolo 176 - Decisione e partenza",
+        "href": "reader/176"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 22",
+    "chapters": [
+      {
+        "title": "Capitolo 177 - Il mondo che sorride",
+        "href": "reader/177"
+      },
+      {
+        "title": "Capitolo 178 - Rincontrarsi sulla collina delle spade",
+        "href": "reader/178"
+      },
+      {
+        "title": "Capitolo 179 - l guerriero bestiale contro il guerriero nero",
+        "href": "reader/179"
+      },
+      {
+        "title": "Capitolo 180 - L'immutabilità",
+        "href": "reader/180"
+      },
+      {
+        "title": "Capitolo 181 - Prologo delle cronache di guerra",
+        "href": "reader/181"
+      },
+      {
+        "title": "Capitolo 182 - L'attacco dei Kushan",
+        "href": "reader/182"
+      },
+      {
+        "title": "Capitolo 183 - Vento di guerra 1",
+        "href": "reader/183"
+      },
+      {
+        "title": "Capitolo 184 - Vento di guerra 2",
+        "href": "reader/184"
+      },
+      {
+        "title": "Capitolo 185 - La neve e la fiamma prima parte",
+        "href": "reader/185"
+      },
+      {
+        "title": "Capitolo 186 - La neve e la fiamma seconda parte",
+        "href": "reader/186"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 23",
+    "chapters": [
+      {
+        "title": "Capitolo 187 - Viaggio d'inverno 1",
+        "href": "reader/187"
+      },
+      {
+        "title": "Capitolo 188 - Viaggio d'inverno 2",
+        "href": "reader/188"
+      },
+      {
+        "title": "Capitolo 189 - Tempo perduto",
+        "href": "reader/189"
+      },
+      {
+        "title": "Capitolo 190 - Zanne",
+        "href": "reader/190"
+      },
+      {
+        "title": "Capitolo 191 - Rincontro nella steppa",
+        "href": "reader/191"
+      },
+      {
+        "title": "Capitolo 192 - Guerrieri diabolici",
+        "href": "reader/192"
+      },
+      {
+        "title": "Capitolo 193 - Il vessillo della spada volante",
+        "href": "reader/193"
+      },
+      {
+        "title": "Capitolo 194 - Ali di luce e ombra",
+        "href": "reader/194"
+      },
+      {
+        "title": "Capitolo 195 - La notte delle stelle cadenti",
+        "href": "reader/195"
+      },
+      {
+        "title": "Capitolo 196 - Come una bambina",
+        "href": "reader/196"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 24",
+    "chapters": [
+      {
+        "title": "Capitolo 197 - Troll",
+        "href": "reader/197"
+      },
+      {
+        "title": "Capitolo 198 - La strega",
+        "href": "reader/198"
+      },
+      {
+        "title": "Capitolo 199 - Il palazzo dell'albero degli spiriti 1",
+        "href": "reader/199"
+      },
+      {
+        "title": "Capitolo 200 - Il palazzo dell'albero degli spiriti 2",
+        "href": "reader/200"
+      },
+      {
+        "title": "Capitolo 201 - Il mondo degli spiriti",
+        "href": "reader/201"
+      },
+      {
+        "title": "Capitolo 202 - La pietra del male",
+        "href": "reader/202"
+      },
+      {
+        "title": "Capitolo 203 - Spiriti elementali",
+        "href": "reader/203"
+      },
+      {
+        "title": "Capitolo 204 - Ambizione e ricordi 1",
+        "href": "reader/204"
+      },
+      {
+        "title": "Capitolo 205 - Ambizione e ricordi 2",
+        "href": "reader/205"
+      },
+      {
+        "title": "Capitolo 206 - L'attacco dei troll",
+        "href": "reader/206"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 25",
+    "chapters": [
+      {
+        "title": "Capitolo 207 - La spada magica",
+        "href": "reader/207"
+      },
+      {
+        "title": "Capitolo 208 - Lo specchio del peccato",
+        "href": "reader/208"
+      },
+      {
+        "title": "Capitolo 209 - La magia",
+        "href": "reader/209"
+      },
+      {
+        "title": "Capitolo 210 - Il culmine della preghiera",
+        "href": "reader/210"
+      },
+      {
+        "title": "Capitolo 211 - Il branco del male 1",
+        "href": "reader/211"
+      },
+      {
+        "title": "Capitolo 212 - Il branco del male 2",
+        "href": "reader/212"
+      },
+      {
+        "title": "Capitolo 213 - Rapide",
+        "href": "reader/213"
+      },
+      {
+        "title": "Capitolo 214 - La sciamana",
+        "href": "reader/214"
+      },
+      {
+        "title": "Capitolo 215 - Il clifoto",
+        "href": "reader/215"
+      },
+      {
+        "title": "Capitolo 216 - Sudiciume",
+        "href": "reader/216"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 26",
+    "chapters": [
+      {
+        "title": "Capitolo 217 - Punizione",
+        "href": "reader/217"
+      },
+      {
+        "title": "Capitolo 218 - Salvezza",
+        "href": "reader/218"
+      },
+      {
+        "title": "Capitolo 219 - Sull'orlo dell'Ade",
+        "href": "reader/219"
+      },
+      {
+        "title": "Capitolo 220 - La meretrice di visceri",
+        "href": "reader/220"
+      },
+      {
+        "title": "Capitolo 221 - Compagni",
+        "href": "reader/221"
+      },
+      {
+        "title": "Capitolo 222 - Graffi",
+        "href": "reader/222"
+      },
+      {
+        "title": "Capitolo 223 - Fiamme 1",
+        "href": "reader/223"
+      },
+      {
+        "title": "Capitolo 224 - Fiamme 2",
+        "href": "reader/224"
+      },
+      {
+        "title": "Capitolo 225 - L'armatura del Berserk 1",
+        "href": "reader/225"
+      },
+      {
+        "title": "Capitolo 226 - L'armatura del Berserk 2",
+        "href": "reader/226"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 27",
+    "chapters": [
+      {
+        "title": "Capitolo 227 - Il drago del fuoco",
+        "href": "reader/227"
+      },
+      {
+        "title": "Capitolo 228 - Il fondo della fiamma",
+        "href": "reader/228"
+      },
+      {
+        "title": "Capitolo 229 - La partenza della fiamma",
+        "href": "reader/229"
+      },
+      {
+        "title": "Capitolo 230 - La città stregata",
+        "href": "reader/230"
+      },
+      {
+        "title": "Capitolo 231 - L'imperatore del terrore",
+        "href": "reader/231"
+      },
+      {
+        "title": "Capitolo 232 - I darka, i soldati-orchi",
+        "href": "reader/232"
+      },
+      {
+        "title": "Capitolo 233 - I cavalieri demoniaci",
+        "href": "reader/233"
+      },
+      {
+        "title": "Capitolo 234 - Il diavolo",
+        "href": "reader/234"
+      },
+      {
+        "title": "Capitolo 235 - Il risveglio della principessa addormentata",
+        "href": "reader/235"
+      },
+      {
+        "title": "Capitolo 236 - I capitoli del falco del regno millenario: Falconia - Il fragore del mare",
+        "href": "reader/236"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 28",
+    "chapters": [
+      {
+        "title": "Capitolo 237 - I segni annunciati",
+        "href": "reader/237"
+      },
+      {
+        "title": "Capitolo 238 - Un bambino sotto la luna",
+        "href": "reader/238"
+      },
+      {
+        "title": "Capitolo 239 - I messaggeri del male",
+        "href": "reader/239"
+      },
+      {
+        "title": "Capitolo 240 - Nebbia malvagia",
+        "href": "reader/240"
+      },
+      {
+        "title": "Capitolo 241 - Il makara, la belva del mare",
+        "href": "reader/241"
+      },
+      {
+        "title": "Capitolo 242 - Il boato del mare",
+        "href": "reader/242"
+      },
+      {
+        "title": "Capitolo 243 - Il Jananin, l'essere supremo",
+        "href": "reader/243"
+      },
+      {
+        "title": "Capitolo 244 - La città prescelta",
+        "href": "reader/244"
+      },
+      {
+        "title": "Capitolo 245 - La città degli uomini",
+        "href": "reader/245"
+      },
+      {
+        "title": "Capitolo 246 - Il nibbio e la civetta sul molo",
+        "href": "reader/246"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 29",
+    "chapters": [
+      {
+        "title": "Capitolo 247 - Il colpo di spada",
+        "href": "reader/247"
+      },
+      {
+        "title": "Capitolo 248 - Il cavaliere",
+        "href": "reader/248"
+      },
+      {
+        "title": "Capitolo 249 - Una cena modesta",
+        "href": "reader/249"
+      },
+      {
+        "title": "Capitolo 250 - Ritorno al nido",
+        "href": "reader/250"
+      },
+      {
+        "title": "Capitolo 251 - Vandimion",
+        "href": "reader/251"
+      },
+      {
+        "title": "Capitolo 252 - Nel giardino",
+        "href": "reader/252"
+      },
+      {
+        "title": "Capitolo 253 - Il giglio bianco e selvatico",
+        "href": "reader/253"
+      },
+      {
+        "title": "Capitolo 254 - La madre",
+        "href": "reader/254"
+      },
+      {
+        "title": "Capitolo 255 - La festa da ballo",
+        "href": "reader/255"
+      },
+      {
+        "title": "Capitolo 256 - Il colonnato",
+        "href": "reader/256"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 30",
+    "chapters": [
+      {
+        "title": "Capitolo 257 - Il duello",
+        "href": "reader/257"
+      },
+      {
+        "title": "Capitolo 258 - Il sovrano dei regni fedeli",
+        "href": "reader/258"
+      },
+      {
+        "title": "Capitolo 259 - La tigre diabolica",
+        "href": "reader/259"
+      },
+      {
+        "title": "Capitolo 260 - L'irruzione",
+        "href": "reader/260"
+      },
+      {
+        "title": "Capitolo 261 - La gabbia arrugginita",
+        "href": "reader/261"
+      },
+      {
+        "title": "Capitolo 262 - La proclamazione delle ostilità",
+        "href": "reader/262"
+      },
+      {
+        "title": "Capitolo 263 - L'invasione delle bestie malvagie",
+        "href": "reader/263"
+      },
+      {
+        "title": "Capitolo 264 - La guida del cielo",
+        "href": "reader/264"
+      },
+      {
+        "title": "Capitolo 265 - La città delle bestie malvagie 1",
+        "href": "reader/265"
+      },
+      {
+        "title": "Capitolo 266 - La città delle bestie malvagie 2",
+        "href": "reader/266"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 31",
+    "chapters": [
+      {
+        "title": "Capitolo 267 - Il porto in fiamme",
+        "href": "reader/267"
+      },
+      {
+        "title": "Capitolo 268 - Il disco di fiamma (Blaze Rod)",
+        "href": "reader/268"
+      },
+      {
+        "title": "Capitolo 269 - La bestia con la spada",
+        "href": "reader/269"
+      },
+      {
+        "title": "Capitolo 270 - Il comandante mago (Paramarishia senai)",
+        "href": "reader/270"
+      },
+      {
+        "title": "Capitolo 271 - Magia orientale",
+        "href": "reader/271"
+      },
+      {
+        "title": "Capitolo 272 - Il serpente",
+        "href": "reader/272"
+      },
+      {
+        "title": "Capitolo 273 - La fiamma esplosiva",
+        "href": "reader/273"
+      },
+      {
+        "title": "Capitolo 274 - L'imperatore dei fulmini",
+        "href": "reader/274"
+      },
+      {
+        "title": "Capitolo 275 - L'arrivo dell'esercito del male",
+        "href": "reader/275"
+      },
+      {
+        "title": "Capitolo 276 - La nuvola colossale",
+        "href": "reader/276"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 32",
+    "chapters": [
+      {
+        "title": "Capitolo 277 - Un attacco disperato",
+        "href": "reader/277"
+      },
+      {
+        "title": "Capitolo 278 - Salpando",
+        "href": "reader/278"
+      },
+      {
+        "title": "Capitolo 279 - La grande invasione 1",
+        "href": "reader/279"
+      },
+      {
+        "title": "Capitolo 280 - La grande invasione 2",
+        "href": "reader/280"
+      },
+      {
+        "title": "Capitolo 281 - Arrivare in volo",
+        "href": "reader/281"
+      },
+      {
+        "title": "Capitolo 282 - Dividere il campo di battaglia",
+        "href": "reader/282"
+      },
+      {
+        "title": "Capitolo 283 - Vento forte",
+        "href": "reader/283"
+      },
+      {
+        "title": "Capitolo 284 - L'esercito regolare delle Midlands",
+        "href": "reader/284"
+      },
+      {
+        "title": "Capitolo 285 - Eroe",
+        "href": "reader/285"
+      },
+      {
+        "title": "Capitolo 286 - Sulla nave",
+        "href": "reader/286"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 33",
+    "chapters": [
+      {
+        "title": "Capitolo 287 - Futilità",
+        "href": "reader/287"
+      },
+      {
+        "title": "Capitolo 288 - Battaglia navale 1",
+        "href": "reader/288"
+      },
+      {
+        "title": "Capitolo 289 - Battaglia navale 2",
+        "href": "reader/289"
+      },
+      {
+        "title": "Capitolo 290 - Ruggiti dalle tenebre",
+        "href": "reader/290"
+      },
+      {
+        "title": "Capitolo 291 - Il sogno premonitore",
+        "href": "reader/291"
+      },
+      {
+        "title": "Capitolo 292 - La nebbia mortale",
+        "href": "reader/292"
+      },
+      {
+        "title": "Capitolo 293 - La quiete nell'oscurità",
+        "href": "reader/293"
+      },
+      {
+        "title": "Capitolo 294 - L'esodo",
+        "href": "reader/294"
+      },
+      {
+        "title": "Capitolo 295 - Shiva, il dio della fine (Non Dio)",
+        "href": "reader/295"
+      },
+      {
+        "title": "Capitolo 296 - Un frastuono nel cielo",
+        "href": "reader/296"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 34",
+    "chapters": [
+      {
+        "title": "Capitolo 297 - Il dio ottenebrato",
+        "href": "reader/297"
+      },
+      {
+        "title": "Capitolo 298 - Scatenare il male",
+        "href": "reader/298"
+      },
+      {
+        "title": "Capitolo 299 - La battaglia inumana",
+        "href": "reader/299"
+      },
+      {
+        "title": "Capitolo 300 - La sacerdotessa del Falco",
+        "href": "reader/300"
+      },
+      {
+        "title": "Capitolo 301 - Il caos",
+        "href": "reader/301"
+      },
+      {
+        "title": "Capitolo 302 - Il volo",
+        "href": "reader/302"
+      },
+      {
+        "title": "Capitolo 303 - Controluce",
+        "href": "reader/303"
+      },
+      {
+        "title": "Capitolo 304 - La fenditura",
+        "href": "reader/304"
+      },
+      {
+        "title": "Capitolo 305 - L'inizio del mondo",
+        "href": "reader/305"
+      },
+      {
+        "title": "Capitolo 306 - Il mondo fantastico",
+        "href": "reader/306"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 35",
+    "chapters": [
+      {
+        "title": "Capitolo 307 - La città del Falco",
+        "href": "reader/307"
+      },
+      {
+        "title": "Capitolo 308 - I capitoli del mondo fantastico: L'isola degli elfi - La nave fantasma 1",
+        "href": "reader/308"
+      },
+      {
+        "title": "Capitolo 309 - La nave fantasma 2",
+        "href": "reader/309"
+      },
+      {
+        "title": "Capitolo 310 - La nave fantasma 3",
+        "href": "reader/310"
+      },
+      {
+        "title": "Capitolo 311 - L'isola sperduta",
+        "href": "reader/311"
+      },
+      {
+        "title": "Capitolo 312 - La ragazza delle mareggiate",
+        "href": "reader/312"
+      },
+      {
+        "title": "Capitolo 313 - Le genti del Mare Maledetto",
+        "href": "reader/313"
+      },
+      {
+        "title": "Capitolo 314 - Tentacoli umani",
+        "href": "reader/314"
+      },
+      {
+        "title": "Capitolo 315 - La nave tentacolare",
+        "href": "reader/315"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 36",
+    "chapters": [
+      {
+        "title": "Capitolo 316 - La luna piena 1",
+        "href": "reader/316"
+      },
+      {
+        "title": "Capitolo 317 - La luna piena 2",
+        "href": "reader/317"
+      },
+      {
+        "title": "Capitolo 318 - Il guerriero ferino",
+        "href": "reader/318"
+      },
+      {
+        "title": "Capitolo 319 - Il dio del mare 1",
+        "href": "reader/319"
+      },
+      {
+        "title": "Capitolo 320 - Il dio del mare 2",
+        "href": "reader/320"
+      },
+      {
+        "title": "Capitolo 321 - Il dio del mare 3",
+        "href": "reader/321"
+      },
+      {
+        "title": "Capitolo 322 - Il cuore vibrante",
+        "href": "reader/322"
+      },
+      {
+        "title": "Capitolo 323 - Il richiamo dal profondo",
+        "href": "reader/323"
+      },
+      {
+        "title": "Capitolo 324 - La sirena 1",
+        "href": "reader/324"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 37",
+    "chapters": [
+      {
+        "title": "Capitolo 325 - La sirena 2",
+        "href": "reader/325"
+      },
+      {
+        "title": "Capitolo 326 - Unione vocale",
+        "href": "reader/326"
+      },
+      {
+        "title": "Capitolo 327 - L'emersione",
+        "href": "reader/327"
+      },
+      {
+        "title": "Capitolo 328 - Una stella cadente",
+        "href": "reader/328"
+      },
+      {
+        "title": "Capitolo 329 - Il fiore primaverile di un giorno lontano 1",
+        "href": "reader/329"
+      },
+      {
+        "title": "Capitolo 330 - Il fiore primaverile di un giorno lontano 2",
+        "href": "reader/330"
+      },
+      {
+        "title": "Capitolo 331 - Il fiore primaverile di un giorno lontano 3",
+        "href": "reader/331"
+      },
+      {
+        "title": "Capitolo 332 - Il carro coperto",
+        "href": "reader/332"
+      },
+      {
+        "title": "Capitolo 333 - Il paradiso",
+        "href": "reader/333"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 38",
+    "chapters": [
+      {
+        "title": "Capitolo 334 - La città degli umani",
+        "href": "reader/334"
+      },
+      {
+        "title": "Capitolo 335 - Il diritto divino dei re",
+        "href": "reader/335"
+      },
+      {
+        "title": "Capitolo 336 - Il pandemonio",
+        "href": "reader/336"
+      },
+      {
+        "title": "Capitolo 337 - Il ponte della separazione",
+        "href": "reader/337"
+      },
+      {
+        "title": "Capitolo 338 - Il sicario del crepuscolo",
+        "href": "reader/338"
+      },
+      {
+        "title": "Capitolo 339 - La capitale illuminata dalla luna",
+        "href": "reader/339"
+      },
+      {
+        "title": "Capitolo 340 - Combattere al buio",
+        "href": "reader/340"
+      },
+      {
+        "title": "Capitolo 341 - Fuga in volo",
+        "href": "reader/341"
+      },
+      {
+        "title": "Capitolo 342 - Lo sbarco",
+        "href": "reader/342"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 39",
+    "chapters": [
+      {
+        "title": "Capitolo 343 - Pupazzo in fiamme",
+        "href": "reader/343"
+      },
+      {
+        "title": "Capitolo 344 - Il Villaggio delle Streghe",
+        "href": "reader/344"
+      },
+      {
+        "title": "Capitolo 345 - Gli arcimaghi",
+        "href": "reader/345"
+      },
+      {
+        "title": "Capitolo 346 - Elfheim",
+        "href": "reader/346"
+      },
+      {
+        "title": "Capitolo 347 - Il re della Tempesta Floreale",
+        "href": "reader/347"
+      },
+      {
+        "title": "Capitolo 348 - Lande tenebrose",
+        "href": "reader/348"
+      },
+      {
+        "title": "Capitolo 349 - Il passaggio dei sogni",
+        "href": "reader/349"
+      },
+      {
+        "title": "Capitolo 350 - Frammenti di memoria",
+        "href": "reader/350"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 40",
+    "chapters": [
+      {
+        "title": "Capitolo 351 - Foresta di corpi e pini brulli",
+        "href": "reader/351"
+      },
+      {
+        "title": "Capitolo 352 - La causa",
+        "href": "reader/352"
+      },
+      {
+        "title": "Capitolo 353 - Il frammento finale",
+        "href": "reader/353"
+      },
+      {
+        "title": "Capitolo 354 - Risveglio",
+        "href": "reader/354"
+      },
+      {
+        "title": "Capitolo 355 - Sotto gli alberi baciati dal sole",
+        "href": "reader/355"
+      },
+      {
+        "title": "Capitolo 356-1 - Jotunn (parte prima)",
+        "href": "reader/356-1"
+      },
+      {
+        "title": "Capitolo 356-2 - Jotunn (parte seconda)",
+        "href": "reader/356-2"
+      },
+      {
+        "title": "Capitolo 357 - Trionfante ritorno all'alba",
+        "href": "reader/357"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 41",
+    "chapters": [
+      {
+        "title": "Capitolo 358 - L'alba di un impero",
+        "href": "reader/358"
+      },
+      {
+        "title": "Capitolo 359 - Un muro",
+        "href": "reader/359"
+      },
+      {
+        "title": "Capitolo 360 - Il giardino di ciliegi",
+        "href": "reader/360"
+      },
+      {
+        "title": "Capitolo 361 - Crepaccio",
+        "href": "reader/361"
+      },
+      {
+        "title": "Capitolo 362 - Fantasma",
+        "href": "reader/362"
+      },
+      {
+        "title": "Capitolo 363 - Scimmia salterina",
+        "href": "reader/363"
+      },
+      {
+        "title": "Capitolo 364 - Una lacrima come rugiada del mattino",
+        "href": "reader/364"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 42",
+    "chapters": [
+      {
+        "title": "Capitolo 365 - La calma della luna calante",
+        "href": "reader/365"
+      },
+      {
+        "title": "Capitolo 366 - L’Occhio del Malestrom",
+        "href": "reader/366"
+      },
+      {
+        "title": "Capitolo 367 - La nebbia si dirada mentre cadono i fiori di ciliegio",
+        "href": "reader/367"
+      },
+      {
+        "title": "Capitolo 368 - Divoratori",
+        "href": "reader/368"
+      },
+      {
+        "title": "Capitolo 369 - L'Isola Effimera",
+        "href": "reader/369"
+      },
+      {
+        "title": "Capitolo 370 - I rifugiati dal mare occidentale",
+        "href": "reader/370"
+      },
+      {
+        "title": "Capitolo 371 - Una luce sbiadita nell'opprimente oscurità della notte",
+        "href": "reader/371"
+      },
+      {
+        "title": "Capitolo 372 - Il corvo rosso dorme in gabbia",
+        "href": "reader/372"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 43",
+    "chapters": [
+      {
+        "title": "Capitolo 373 - Gli anelli di ferro arrugginito che vincolano",
+        "href": "reader/373"
+      },
+      {
+        "title": "Capitolo 374 - La nera bestia dormente sta aspettando il suo momento",
+        "href": "reader/374"
+      },
+      {
+        "title": "Capitolo 375 - L'alba sorge sull'incrollabile nebbia notturna",
+        "href": "reader/375"
+      },
+      {
+        "title": "Capitolo 376 - La tremolante superficie del mare e l'ombra rovinosa della guerra",
+        "href": "reader/376"
+      },
+      {
+        "title": "Capitolo 377 - Serpe in seno",
+        "href": "reader/377"
+      },
+      {
+        "title": "Capitolo 378 - L'assasino invitato",
+        "href": "reader/378"
+      },
+      {
+        "title": "Capitolo 379 - Coloro che danzano nelle viscere degli Inferi",
+        "href": "reader/379"
+      },
+      {
+        "title": "Capitolo 380 - Le ombre muoiono due volte",
+        "href": "reader/380"
+      },
+      {
+        "title": "Capitolo 381 - Una falce di luna splende sulla schiena dell'esule",
+        "href": "reader/381"
+      },
+      {
+        "title": "Capitolo 382 - Sepolcro",
+        "href": "reader/382"
+      },
+      {
+        "title": "Capitolo 383 - Anadi-avidya (Ignoranza primordiale)",
+        "href": "reader/383"
+      }
+    ]
+  },
+  {
+    "volume": "Volume 44",
+    "chapters": [
+      {
+        "title": "Capitolo 384 - Lo specchio d'acqua increspato e l'ultimo chiarore spettrale",
+        "href": "reader/384"
+      },
+      {
+        "title": "Capitolo 385 - La marea cambia",
+        "href": "reader/385"
+      },
+      {
+        "title": "Capitolo 386 - Si può ghermire un uccello migratore tra le nubi?",
+        "href": "reader/386"
+      },
+      {
+        "title": "Capitolo 387 -(Disponibile ??)",
+        "href": "reader/387"
+      }
+    ]
+  }
+]

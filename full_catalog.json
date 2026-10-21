@@ -1,0 +1,3990 @@
+[
+  {
+    "volume_number": 1,
+    "volume_title": "Volume 01",
+    "cdn_vol": "01",
+    "chapters_count": 3,
+    "chapters": [
+      {
+        "title": "Capitolo 000-01 - Il guerriero nero",
+        "folder_name": "Capitolo 000-01 - Il guerriero nero",
+        "slug": "reader/000-01",
+        "raw_cap": "000-01",
+        "cdn_cap": "00-01",
+        "cdn_vol": "01",
+        "pages_count": 97
+      },
+      {
+        "title": "Capitolo 000-02 - Il marchio",
+        "folder_name": "Capitolo 000-02 - Il marchio",
+        "slug": "reader/000-02",
+        "raw_cap": "000-02",
+        "cdn_cap": "00-02",
+        "cdn_vol": "01",
+        "pages_count": 70
+      },
+      {
+        "title": "Capitolo 000-03 - Gli angeli custodi dei desideri 1",
+        "folder_name": "Capitolo 000-03 - Gli angeli custodi dei desideri 1",
+        "slug": "reader/000-03",
+        "raw_cap": "000-03",
+        "cdn_cap": "00-03",
+        "cdn_vol": "01",
+        "pages_count": 57
+      }
+    ]
+  },
+  {
+    "volume_number": 2,
+    "volume_title": "Volume 02",
+    "cdn_vol": "02",
+    "chapters_count": 2,
+    "chapters": [
+      {
+        "title": "Capitolo 000-04 - Gli angeli custodi dei desideri 2",
+        "folder_name": "Capitolo 000-04 - Gli angeli custodi dei desideri 2",
+        "slug": "reader/000-04",
+        "raw_cap": "000-04",
+        "cdn_cap": "00-04",
+        "cdn_vol": "02",
+        "pages_count": 127
+      },
+      {
+        "title": "Capitolo 000-05 - Gli angeli custodi dei desideri 3",
+        "folder_name": "Capitolo 000-05 - Gli angeli custodi dei desideri 3",
+        "slug": "reader/000-05",
+        "raw_cap": "000-05",
+        "cdn_cap": "00-05",
+        "cdn_vol": "02",
+        "pages_count": 109
+      }
+    ]
+  },
+  {
+    "volume_number": 3,
+    "volume_title": "Volume 03",
+    "cdn_vol": "03",
+    "chapters_count": 4,
+    "chapters": [
+      {
+        "title": "Capitolo 000-06 - Gli angeli custodi dei desideri 4",
+        "folder_name": "Capitolo 000-06 - Gli angeli custodi dei desideri 4",
+        "slug": "reader/000-06",
+        "raw_cap": "000-06",
+        "cdn_cap": "00-06",
+        "cdn_vol": "03",
+        "pages_count": 66
+      },
+      {
+        "title": "Capitolo 000-07 - Gli angeli custodi dei desideri 5",
+        "folder_name": "Capitolo 000-07 - Gli angeli custodi dei desideri 5",
+        "slug": "reader/000-07",
+        "raw_cap": "000-07",
+        "cdn_cap": "00-07",
+        "cdn_vol": "03",
+        "pages_count": 54
+      },
+      {
+        "title": "Capitolo 000-08 - Gli angeli custodi dei desideri 6",
+        "folder_name": "Capitolo 000-08 - Gli angeli custodi dei desideri 6",
+        "slug": "reader/000-08",
+        "raw_cap": "000-08",
+        "cdn_cap": "00-08",
+        "cdn_vol": "03",
+        "pages_count": 62
+      },
+      {
+        "title": "Capitolo 000-09 - L'età dell'oro 1",
+        "folder_name": "Capitolo 000-09 - L'età dell'oro 1",
+        "slug": "reader/000-09",
+        "raw_cap": "000-09",
+        "cdn_cap": "00-09",
+        "cdn_vol": "03",
+        "pages_count": 49
+      }
+    ]
+  },
+  {
+    "volume_number": 4,
+    "volume_title": "Volume 04",
+    "cdn_vol": "04",
+    "chapters_count": 5,
+    "chapters": [
+      {
+        "title": "Capitolo 000-10 - L'età dell'oro 2",
+        "folder_name": "Capitolo 000-10 - L'età dell'oro 2",
+        "slug": "reader/000-10",
+        "raw_cap": "000-10",
+        "cdn_cap": "00-10",
+        "cdn_vol": "04",
+        "pages_count": 61
+      },
+      {
+        "title": "Capitolo 000-11 - L'età dell'oro 3",
+        "folder_name": "Capitolo 000-11 - L'età dell'oro 3",
+        "slug": "reader/000-11",
+        "raw_cap": "000-11",
+        "cdn_cap": "00-11",
+        "cdn_vol": "04",
+        "pages_count": 48
+      },
+      {
+        "title": "Capitolo 000-12 - L'età dell'oro 4",
+        "folder_name": "Capitolo 000-12 - L'età dell'oro 4",
+        "slug": "reader/000-12",
+        "raw_cap": "000-12",
+        "cdn_cap": "00-12",
+        "cdn_vol": "04",
+        "pages_count": 44
+      },
+      {
+        "title": "Capitolo 000-13 - L'età dell'oro 5",
+        "folder_name": "Capitolo 000-13 - L'età dell'oro 5",
+        "slug": "reader/000-13",
+        "raw_cap": "000-13",
+        "cdn_cap": "00-13",
+        "cdn_vol": "04",
+        "pages_count": 43
+      },
+      {
+        "title": "Capitolo 000-14 - L'età dell'oro 6",
+        "folder_name": "Capitolo 000-14 - L'età dell'oro 6",
+        "slug": "reader/000-14",
+        "raw_cap": "000-14",
+        "cdn_cap": "00-14",
+        "cdn_vol": "04",
+        "pages_count": 44
+      }
+    ]
+  },
+  {
+    "volume_number": 5,
+    "volume_title": "Volume 05",
+    "cdn_vol": "05",
+    "chapters_count": 8,
+    "chapters": [
+      {
+        "title": "Capitolo 000-15 - L'età dell'oro 7",
+        "folder_name": "Capitolo 000-15 - L'età dell'oro 7",
+        "slug": "reader/000-15",
+        "raw_cap": "000-15",
+        "cdn_cap": "00-15",
+        "cdn_vol": "05",
+        "pages_count": 45
+      },
+      {
+        "title": "Capitolo 000-16 - L'età dell'oro 8",
+        "folder_name": "Capitolo 000-16 - L'età dell'oro 8",
+        "slug": "reader/000-16",
+        "raw_cap": "000-16",
+        "cdn_cap": "00-16",
+        "cdn_vol": "05",
+        "pages_count": 39
+      },
+      {
+        "title": "Capitolo 001 - Il vento della spada",
+        "folder_name": "Capitolo 001 - Il vento della spada",
+        "slug": "reader/001",
+        "raw_cap": "001",
+        "cdn_cap": "01",
+        "cdn_vol": "05",
+        "pages_count": 37
+      },
+      {
+        "title": "Capitolo 002 - Zodd l'immortale 1",
+        "folder_name": "Capitolo 002 - Zodd l'immortale 1",
+        "slug": "reader/002",
+        "raw_cap": "002",
+        "cdn_cap": "02",
+        "cdn_vol": "05",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 003 - Zodd l'immortale 2",
+        "folder_name": "Capitolo 003 - Zodd l'immortale 2",
+        "slug": "reader/003",
+        "raw_cap": "003",
+        "cdn_cap": "03",
+        "cdn_vol": "05",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 004 - Zodd l'immortale 3",
+        "folder_name": "Capitolo 004 - Zodd l'immortale 3",
+        "slug": "reader/004",
+        "raw_cap": "004",
+        "cdn_cap": "04",
+        "cdn_vol": "05",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 005 - Zodd l'immortale 4",
+        "folder_name": "Capitolo 005 - Zodd l'immortale 4",
+        "slug": "reader/005",
+        "raw_cap": "005",
+        "cdn_cap": "05",
+        "cdn_vol": "05",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 006 - Il padrone della spada 1",
+        "folder_name": "Capitolo 006 - Il padrone della spada 1",
+        "slug": "reader/006",
+        "raw_cap": "006",
+        "cdn_cap": "06",
+        "cdn_vol": "05",
+        "pages_count": 31
+      }
+    ]
+  },
+  {
+    "volume_number": 6,
+    "volume_title": "Volume 06",
+    "cdn_vol": "06",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 007 - Il padrone della spada 2",
+        "folder_name": "Capitolo 007 - Il padrone della spada 2",
+        "slug": "reader/007",
+        "raw_cap": "007",
+        "cdn_cap": "07",
+        "cdn_vol": "06",
+        "pages_count": 38
+      },
+      {
+        "title": "Capitolo 008 - L'assassino 1",
+        "folder_name": "Capitolo 008 - L'assassino 1",
+        "slug": "reader/008",
+        "raw_cap": "008",
+        "cdn_cap": "08",
+        "cdn_vol": "06",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 009 - L'assassino 2",
+        "folder_name": "Capitolo 009 - L'assassino 2",
+        "slug": "reader/009",
+        "raw_cap": "009",
+        "cdn_cap": "09",
+        "cdn_vol": "06",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 010 - L'assassino 3",
+        "folder_name": "Capitolo 010 - L'assassino 3",
+        "slug": "reader/010",
+        "raw_cap": "010",
+        "cdn_cap": "10",
+        "cdn_vol": "06",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 011 - L'assassino 4",
+        "folder_name": "Capitolo 011 - L'assassino 4",
+        "slug": "reader/011",
+        "raw_cap": "011",
+        "cdn_cap": "11",
+        "cdn_vol": "06",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 012 - Cose preziose",
+        "folder_name": "Capitolo 012 - Cose preziose",
+        "slug": "reader/012",
+        "raw_cap": "012",
+        "cdn_cap": "12",
+        "cdn_vol": "06",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 013 - Scendere in campo",
+        "folder_name": "Capitolo 013 - Scendere in campo",
+        "slug": "reader/013",
+        "raw_cap": "013",
+        "cdn_cap": "13",
+        "cdn_vol": "06",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 014 - La barraglia",
+        "folder_name": "Capitolo 014 - La barraglia",
+        "slug": "reader/014",
+        "raw_cap": "014",
+        "cdn_cap": "14",
+        "cdn_vol": "06",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 015 - Caska 1",
+        "folder_name": "Capitolo 015 - Caska 1",
+        "slug": "reader/015",
+        "raw_cap": "015",
+        "cdn_cap": "15",
+        "cdn_vol": "06",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 016 - Caska 2",
+        "folder_name": "Capitolo 016 - Caska 2",
+        "slug": "reader/016",
+        "raw_cap": "016",
+        "cdn_cap": "16",
+        "cdn_vol": "06",
+        "pages_count": 26
+      }
+    ]
+  },
+  {
+    "volume_number": 7,
+    "volume_title": "Volume 07",
+    "cdn_vol": "07",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 017 - Caska 3",
+        "folder_name": "Capitolo 017 - Caska 3",
+        "slug": "reader/017",
+        "raw_cap": "017",
+        "cdn_cap": "17",
+        "cdn_vol": "07",
+        "pages_count": 26
+      },
+      {
+        "title": "Capitolo 018 - Viaggio suicida 1",
+        "folder_name": "Capitolo 018 - Viaggio suicida 1",
+        "slug": "reader/018",
+        "raw_cap": "018",
+        "cdn_cap": "18",
+        "cdn_vol": "07",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 019 - Viaggio suicida 2",
+        "folder_name": "Capitolo 019 - Viaggio suicida 2",
+        "slug": "reader/019",
+        "raw_cap": "019",
+        "cdn_cap": "19",
+        "cdn_vol": "07",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 020 - Viaggio suicida 3",
+        "folder_name": "Capitolo 020 - Viaggio suicida 3",
+        "slug": "reader/020",
+        "raw_cap": "020",
+        "cdn_cap": "20",
+        "cdn_vol": "07",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 021 - Sopravvivere",
+        "folder_name": "Capitolo 021 - Sopravvivere",
+        "slug": "reader/021",
+        "raw_cap": "021",
+        "cdn_cap": "21",
+        "cdn_vol": "07",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 022 - Il falò dei sogni",
+        "folder_name": "Capitolo 022 - Il falò dei sogni",
+        "slug": "reader/022",
+        "raw_cap": "022",
+        "cdn_cap": "22",
+        "cdn_vol": "07",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 023 - La battaglia per la conquista di Dordrey 1",
+        "folder_name": "Capitolo 023 - La battaglia per la conquista di Dordrey 1",
+        "slug": "reader/023",
+        "raw_cap": "023",
+        "cdn_cap": "23",
+        "cdn_vol": "07",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 024 - La battaglia per la conquista di Dordrey 2",
+        "folder_name": "Capitolo 024 - La battaglia per la conquista di Dordrey 2",
+        "slug": "reader/024",
+        "raw_cap": "024",
+        "cdn_cap": "24",
+        "cdn_vol": "07",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 025 - La battaglia per la conquista di Dordrey 3",
+        "folder_name": "Capitolo 025 - La battaglia per la conquista di Dordrey 3",
+        "slug": "reader/025",
+        "raw_cap": "025",
+        "cdn_cap": "25",
+        "cdn_vol": "07",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 026 - La battaglia per la conquista di Dordrey 4",
+        "folder_name": "Capitolo 026 - La battaglia per la conquista di Dordrey 4",
+        "slug": "reader/026",
+        "raw_cap": "026",
+        "cdn_cap": "26",
+        "cdn_vol": "07",
+        "pages_count": 23
+      }
+    ]
+  },
+  {
+    "volume_number": 8,
+    "volume_title": "Volume 08",
+    "cdn_vol": "08",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 027 - La battaglia per la conquista di Dordrey 5",
+        "folder_name": "Capitolo 027 - La battaglia per la conquista di Dordrey 5",
+        "slug": "reader/027",
+        "raw_cap": "027",
+        "cdn_cap": "27",
+        "cdn_vol": "08",
+        "pages_count": 32
+      },
+      {
+        "title": "Capitolo 028 - La battaglia per la conquista di Dordrey 6",
+        "folder_name": "Capitolo 028 - La battaglia per la conquista di Dordrey 6",
+        "slug": "reader/028",
+        "raw_cap": "028",
+        "cdn_cap": "28",
+        "cdn_vol": "08",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 029 - Il trionfo",
+        "folder_name": "Capitolo 029 - Il trionfo",
+        "slug": "reader/029",
+        "raw_cap": "029",
+        "cdn_cap": "29",
+        "cdn_vol": "08",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 030 - Il momento di gloria",
+        "folder_name": "Capitolo 030 - Il momento di gloria",
+        "slug": "reader/030",
+        "raw_cap": "030",
+        "cdn_cap": "30",
+        "cdn_vol": "08",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 031 - Una lapide di fiamme 1",
+        "folder_name": "Capitolo 031 - Una lapide di fiamme 1",
+        "slug": "reader/031",
+        "raw_cap": "031",
+        "cdn_cap": "31",
+        "cdn_vol": "08",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 032 - Una lapide di fiamme 2",
+        "folder_name": "Capitolo 032 - Una lapide di fiamme 2",
+        "slug": "reader/032",
+        "raw_cap": "032",
+        "cdn_cap": "32",
+        "cdn_vol": "08",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 033 - In una notte nevosa",
+        "folder_name": "Capitolo 033 - In una notte nevosa",
+        "slug": "reader/033",
+        "raw_cap": "033",
+        "cdn_cap": "33",
+        "cdn_vol": "08",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 034 - Il giorno della partenza 1",
+        "folder_name": "Capitolo 034 - Il giorno della partenza 1",
+        "slug": "reader/034",
+        "raw_cap": "034",
+        "cdn_cap": "34",
+        "cdn_vol": "08",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 035 - Il giorno della partenza 2",
+        "folder_name": "Capitolo 035 - Il giorno della partenza 2",
+        "slug": "reader/035",
+        "raw_cap": "035",
+        "cdn_cap": "35",
+        "cdn_vol": "08",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 036 - Il giorno della partenza 3",
+        "folder_name": "Capitolo 036 - Il giorno della partenza 3",
+        "slug": "reader/036",
+        "raw_cap": "036",
+        "cdn_cap": "36",
+        "cdn_vol": "08",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 9,
+    "volume_title": "Volume 09",
+    "cdn_vol": "09",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 037 - Il cavaliere del teschio",
+        "folder_name": "Capitolo 037 - Il cavaliere del teschio",
+        "slug": "reader/037",
+        "raw_cap": "037",
+        "cdn_cap": "37",
+        "cdn_vol": "09",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 038 - L'inizio della notte eterna",
+        "folder_name": "Capitolo 038 - L'inizio della notte eterna",
+        "slug": "reader/038",
+        "raw_cap": "038",
+        "cdn_cap": "38",
+        "cdn_vol": "09",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 039 - Il falco caduto",
+        "folder_name": "Capitolo 039 - Il falco caduto",
+        "slug": "reader/039",
+        "raw_cap": "039",
+        "cdn_cap": "39",
+        "cdn_vol": "09",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 040 - L'epilogo del sogno",
+        "folder_name": "Capitolo 040 - L'epilogo del sogno",
+        "slug": "reader/040",
+        "raw_cap": "040",
+        "cdn_cap": "40",
+        "cdn_vol": "09",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 041 - La contesa",
+        "folder_name": "Capitolo 041 - La contesa",
+        "slug": "reader/041",
+        "raw_cap": "041",
+        "cdn_cap": "41",
+        "cdn_vol": "09",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 042 - I fuggiaschi",
+        "folder_name": "Capitolo 042 - I fuggiaschi",
+        "slug": "reader/042",
+        "raw_cap": "042",
+        "cdn_cap": "42",
+        "cdn_vol": "09",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 043 - Il guerriero",
+        "folder_name": "Capitolo 043 - Il guerriero",
+        "slug": "reader/043",
+        "raw_cap": "043",
+        "cdn_cap": "43",
+        "cdn_vol": "09",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 044 - Compagni d'arma",
+        "folder_name": "Capitolo 044 - Compagni d'arma",
+        "slug": "reader/044",
+        "raw_cap": "044",
+        "cdn_cap": "44",
+        "cdn_vol": "09",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 045 - Confessioni",
+        "folder_name": "Capitolo 045 - Confessioni",
+        "slug": "reader/045",
+        "raw_cap": "045",
+        "cdn_cap": "45",
+        "cdn_vol": "09",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 046 - Ferite 1",
+        "folder_name": "Capitolo 046 - Ferite 1",
+        "slug": "reader/046",
+        "raw_cap": "046",
+        "cdn_cap": "46",
+        "cdn_vol": "09",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 047 - Ferite 2",
+        "folder_name": "Capitolo 047 - Ferite 2",
+        "slug": "reader/047",
+        "raw_cap": "047",
+        "cdn_cap": "47",
+        "cdn_vol": "09",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 10,
+    "volume_title": "Volume 10",
+    "cdn_vol": "10",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 048 - Scintille in punta di spade",
+        "folder_name": "Capitolo 048 - Scintille in punta di spade",
+        "slug": "reader/048",
+        "raw_cap": "048",
+        "cdn_cap": "48",
+        "cdn_vol": "10",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 049 - Fra le mura di Windom 1",
+        "folder_name": "Capitolo 049 - Fra le mura di Windom 1",
+        "slug": "reader/049",
+        "raw_cap": "049",
+        "cdn_cap": "49",
+        "cdn_vol": "10",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 050 - Fra le mura di Windom 2",
+        "folder_name": "Capitolo 050 - Fra le mura di Windom 2",
+        "slug": "reader/050",
+        "raw_cap": "050",
+        "cdn_cap": "50",
+        "cdn_vol": "10",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 051 - La vigilia della festa 1",
+        "folder_name": "Capitolo 051 - La vigilia della festa 1",
+        "slug": "reader/051",
+        "raw_cap": "051",
+        "cdn_cap": "51",
+        "cdn_vol": "10",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 052 - La vigilia della festa 2",
+        "folder_name": "Capitolo 052 - La vigilia della festa 2",
+        "slug": "reader/052",
+        "raw_cap": "052",
+        "cdn_cap": "52",
+        "cdn_vol": "10",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 053 - Il luogo sigillato per mille anni",
+        "folder_name": "Capitolo 053 - Il luogo sigillato per mille anni",
+        "slug": "reader/053",
+        "raw_cap": "053",
+        "cdn_cap": "53",
+        "cdn_vol": "10",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 054 - Rincontrarsi nelle tenebre",
+        "folder_name": "Capitolo 054 - Rincontrarsi nelle tenebre",
+        "slug": "reader/054",
+        "raw_cap": "054",
+        "cdn_cap": "54",
+        "cdn_vol": "10",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 055 - Una scia di sangue",
+        "folder_name": "Capitolo 055 - Una scia di sangue",
+        "slug": "reader/055",
+        "raw_cap": "055",
+        "cdn_cap": "55",
+        "cdn_vol": "10",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 056 - I barkilaka 1",
+        "folder_name": "Capitolo 056 - I barkilaka 1",
+        "slug": "reader/056",
+        "raw_cap": "056",
+        "cdn_cap": "56",
+        "cdn_vol": "10",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 057 - I barkilaka 2",
+        "folder_name": "Capitolo 057 - I barkilaka 2",
+        "slug": "reader/057",
+        "raw_cap": "057",
+        "cdn_cap": "57",
+        "cdn_vol": "10",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 058 - Il fiore del castello di pietra",
+        "folder_name": "Capitolo 058 - Il fiore del castello di pietra",
+        "slug": "reader/058",
+        "raw_cap": "058",
+        "cdn_cap": "58",
+        "cdn_vol": "10",
+        "pages_count": 21
+      }
+    ]
+  },
+  {
+    "volume_number": 11,
+    "volume_title": "Volume 11",
+    "cdn_vol": "11",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 059 - Cani infernali 1",
+        "folder_name": "Capitolo 059 - Cani infernali 1",
+        "slug": "reader/059",
+        "raw_cap": "059",
+        "cdn_cap": "59",
+        "cdn_vol": "11",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 060 - Cani infernali 2",
+        "folder_name": "Capitolo 060 - Cani infernali 2",
+        "slug": "reader/060",
+        "raw_cap": "060",
+        "cdn_cap": "60",
+        "cdn_vol": "11",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 061 - Cani infernali 3",
+        "folder_name": "Capitolo 061 - Cani infernali 3",
+        "slug": "reader/061",
+        "raw_cap": "061",
+        "cdn_cap": "61",
+        "cdn_vol": "11",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 062 - Cani infernali 4",
+        "folder_name": "Capitolo 062 - Cani infernali 4",
+        "slug": "reader/062",
+        "raw_cap": "062",
+        "cdn_cap": "62",
+        "cdn_vol": "11",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 063 - Latrati di follia",
+        "folder_name": "Capitolo 063 - Latrati di follia",
+        "slug": "reader/063",
+        "raw_cap": "063",
+        "cdn_cap": "63",
+        "cdn_vol": "11",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 064 - Tragedia nel bosco",
+        "folder_name": "Capitolo 064 - Tragedia nel bosco",
+        "slug": "reader/064",
+        "raw_cap": "064",
+        "cdn_cap": "64",
+        "cdn_vol": "11",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 065 - Battaglia mortale 1",
+        "folder_name": "Capitolo 065 - Battaglia mortale 1",
+        "slug": "reader/065",
+        "raw_cap": "065",
+        "cdn_cap": "65",
+        "cdn_vol": "11",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 066 - Battaglia mortale 2",
+        "folder_name": "Capitolo 066 - Battaglia mortale 2",
+        "slug": "reader/066",
+        "raw_cap": "066",
+        "cdn_cap": "66",
+        "cdn_vol": "11",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 067 - L'armatura nel cuore",
+        "folder_name": "Capitolo 067 - L'armatura nel cuore",
+        "slug": "reader/067",
+        "raw_cap": "067",
+        "cdn_cap": "67",
+        "cdn_vol": "11",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 068 - L'essere giunto in volo...",
+        "folder_name": "Capitolo 068 - L'essere giunto in volo",
+        "slug": "reader/068",
+        "raw_cap": "068",
+        "cdn_cap": "68",
+        "cdn_vol": "11",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 069 - L'immortale ritorna",
+        "folder_name": "Capitolo 069 - L'immortale ritorna",
+        "slug": "reader/069",
+        "raw_cap": "069",
+        "cdn_cap": "69",
+        "cdn_vol": "11",
+        "pages_count": 22
+      }
+    ]
+  },
+  {
+    "volume_number": 12,
+    "volume_title": "Volume 12",
+    "cdn_vol": "12",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 070 - Il requiem del vento",
+        "folder_name": "Capitolo 070 - Il requiem del vento",
+        "slug": "reader/070",
+        "raw_cap": "070",
+        "cdn_cap": "70",
+        "cdn_vol": "12",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 071 - Guerrieri al tramonto",
+        "folder_name": "Capitolo 071 - Guerrieri al tramonto",
+        "slug": "reader/071",
+        "raw_cap": "071",
+        "cdn_cap": "71",
+        "cdn_vol": "12",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 072 - Il ragazzo nel vicolo",
+        "folder_name": "Capitolo 072 - Il ragazzo nel vicolo",
+        "slug": "reader/072",
+        "raw_cap": "072",
+        "cdn_cap": "72",
+        "cdn_vol": "12",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 073 - Eclissi",
+        "folder_name": "Capitolo 073 - Eclissi",
+        "slug": "reader/073",
+        "raw_cap": "073",
+        "cdn_cap": "73",
+        "cdn_vol": "12",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 074 - Il momento promesso",
+        "folder_name": "Capitolo 074 - Il momento promesso",
+        "slug": "reader/074",
+        "raw_cap": "074",
+        "cdn_cap": "74",
+        "cdn_vol": "12",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 075 - L'avvento",
+        "folder_name": "Capitolo 075 - L'avvento",
+        "slug": "reader/075",
+        "raw_cap": "075",
+        "cdn_cap": "75",
+        "cdn_vol": "12",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 076 - Mostri disumani",
+        "folder_name": "Capitolo 076 - Mostri disumani",
+        "slug": "reader/076",
+        "raw_cap": "076",
+        "cdn_cap": "76",
+        "cdn_vol": "12",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 077 - Il castello",
+        "folder_name": "Capitolo 077 - Il castello",
+        "slug": "reader/077",
+        "raw_cap": "077",
+        "cdn_cap": "77",
+        "cdn_vol": "12",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 078 - Separazione definitiva",
+        "folder_name": "Capitolo 078 - Separazione definitiva",
+        "slug": "reader/078",
+        "raw_cap": "078",
+        "cdn_cap": "78",
+        "cdn_vol": "12",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 079 -  Il banchetto",
+        "folder_name": "Capitolo 079 - Il banchetto",
+        "slug": "reader/079",
+        "raw_cap": "079",
+        "cdn_cap": "79",
+        "cdn_vol": "12",
+        "pages_count": 21
+      }
+    ]
+  },
+  {
+    "volume_number": 13,
+    "volume_title": "Volume 13",
+    "cdn_vol": "13",
+    "chapters_count": 12,
+    "chapters": [
+      {
+        "title": "Capitolo 080 - Tempesta di morte 1",
+        "folder_name": "Capitolo 080 - Tempesta di morte 1",
+        "slug": "reader/080",
+        "raw_cap": "080",
+        "cdn_cap": "80",
+        "cdn_vol": "13",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 081 - Tempesta di morte 2",
+        "folder_name": "Capitolo 081 - Tempesta di morte 2",
+        "slug": "reader/081",
+        "raw_cap": "081",
+        "cdn_cap": "81",
+        "cdn_vol": "13",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 082 - Il dio degli abissi",
+        "folder_name": "Capitolo 082 - Il dio degli abissi",
+        "slug": "reader/082",
+        "raw_cap": "082",
+        "cdn_cap": "82",
+        "cdn_vol": "13",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 083 - Il dio degli abissi 2",
+        "folder_name": "Capitolo 083 - Il dio degli abissi 2",
+        "slug": "reader/083",
+        "raw_cap": "083",
+        "cdn_cap": "83",
+        "cdn_vol": "13",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 084 - Sangue fresco",
+        "folder_name": "Capitolo 084 - Sangue fresco",
+        "slug": "reader/084",
+        "raw_cap": "084",
+        "cdn_cap": "84",
+        "cdn_vol": "13",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 085 - Movimento fetale",
+        "folder_name": "Capitolo 085 - Movimento fetale",
+        "slug": "reader/085",
+        "raw_cap": "085",
+        "cdn_cap": "85",
+        "cdn_vol": "13",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 086 - La nascita",
+        "folder_name": "Capitolo 086 - La nascita",
+        "slug": "reader/086",
+        "raw_cap": "086",
+        "cdn_cap": "86",
+        "cdn_vol": "13",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 087 - L'immagine persistente dell'occhio sinistro",
+        "folder_name": "Capitolo 087 - L'immagine persistente dell'occhio sinistro",
+        "slug": "reader/087",
+        "raw_cap": "087",
+        "cdn_cap": "87",
+        "cdn_vol": "13",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 088 - L'evasione",
+        "folder_name": "Capitolo 088 - L'evasione",
+        "slug": "reader/088",
+        "raw_cap": "088",
+        "cdn_cap": "88",
+        "cdn_vol": "13",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 089 - Risvegliarsi in un incubo",
+        "folder_name": "Capitolo 089 - Risvegliarsi in un incubo",
+        "slug": "reader/089",
+        "raw_cap": "089",
+        "cdn_cap": "89",
+        "cdn_vol": "13",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 090 - Corsa a perdifiato",
+        "folder_name": "Capitolo 090 - Corsa a perdifiato",
+        "slug": "reader/090",
+        "raw_cap": "090",
+        "cdn_cap": "90",
+        "cdn_vol": "13",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 091 - Dichiarazione di guerra",
+        "folder_name": "Capitolo 091 - Dichiarazione di guerra",
+        "slug": "reader/091",
+        "raw_cap": "091",
+        "cdn_cap": "91",
+        "cdn_vol": "13",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 14,
+    "volume_title": "Volume 14",
+    "cdn_vol": "14",
+    "chapters_count": 8,
+    "chapters": [
+      {
+        "title": "Capitolo 092 - Il male in fasce",
+        "folder_name": "Capitolo 092 - Il male in fasce",
+        "slug": "reader/092",
+        "raw_cap": "092",
+        "cdn_cap": "92",
+        "cdn_vol": "14",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 093 - L'armamento",
+        "folder_name": "Capitolo 093 - L'armamento",
+        "slug": "reader/093",
+        "raw_cap": "093",
+        "cdn_cap": "93",
+        "cdn_vol": "14",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 094 - Il cacciatore di draghi",
+        "folder_name": "Capitolo 094 - Il cacciatore di draghi",
+        "slug": "reader/094",
+        "raw_cap": "094",
+        "cdn_cap": "94",
+        "cdn_vol": "14",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 095 - I capitoli della condanna: Lost Children - Il ritorno del guerriero nero",
+        "folder_name": "Capitolo 095 - I capitoli della condanna Lost Children - Il ritorno del guerriero nero",
+        "slug": "reader/095",
+        "raw_cap": "095",
+        "cdn_cap": "95",
+        "cdn_vol": "14",
+        "pages_count": 30
+      },
+      {
+        "title": "Capitolo 096 - Gli elfi della valle della nebbia",
+        "folder_name": "Capitolo 096 - Gli elfi della valle della nebbia",
+        "slug": "reader/096",
+        "raw_cap": "096",
+        "cdn_cap": "96",
+        "cdn_vol": "14",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 097 - Jill",
+        "folder_name": "Capitolo 097 - Jill",
+        "slug": "reader/097",
+        "raw_cap": "097",
+        "cdn_cap": "97",
+        "cdn_vol": "14",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 098 - Venuti dal cielo",
+        "folder_name": "Capitolo 098 - Venuti dal cielo",
+        "slug": "reader/098",
+        "raw_cap": "098",
+        "cdn_cap": "98",
+        "cdn_vol": "14",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 099 - Pargoli insoliti",
+        "folder_name": "Capitolo 099 - Pargoli insoliti",
+        "slug": "reader/099",
+        "raw_cap": "099",
+        "cdn_cap": "99",
+        "cdn_vol": "14",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 15,
+    "volume_title": "Volume 15",
+    "cdn_vol": "15",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 100 - La regina",
+        "folder_name": "Capitolo 100 - La regina",
+        "slug": "reader/100",
+        "raw_cap": "100",
+        "cdn_cap": "100",
+        "cdn_vol": "15",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 101 - Fuochi fatui",
+        "folder_name": "Capitolo 101 - Fuochi fatui",
+        "slug": "reader/101",
+        "raw_cap": "101",
+        "cdn_cap": "101",
+        "cdn_vol": "15",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 102 - Pirkaf dagli occhi rossi",
+        "folder_name": "Capitolo 102 - Pirkaf dagli occhi rossi",
+        "slug": "reader/102",
+        "raw_cap": "102",
+        "cdn_cap": "102",
+        "cdn_vol": "15",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 103 - La ragazza dei ricordi",
+        "folder_name": "Capitolo 103 - La ragazza dei ricordi",
+        "slug": "reader/103",
+        "raw_cap": "103",
+        "cdn_cap": "103",
+        "cdn_vol": "15",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 104 - Il mondo degli esseri con le ali",
+        "folder_name": "Capitolo 104 - Il mondo degli esseri con le ali",
+        "slug": "reader/104",
+        "raw_cap": "104",
+        "cdn_cap": "104",
+        "cdn_vol": "15",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 105 - I guardiani 1",
+        "folder_name": "Capitolo 105 - I guardiani 1",
+        "slug": "reader/105",
+        "raw_cap": "105",
+        "cdn_cap": "105",
+        "cdn_vol": "15",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 106 - I guardiani 2",
+        "folder_name": "Capitolo 106 - I guardiani 2",
+        "slug": "reader/106",
+        "raw_cap": "106",
+        "cdn_cap": "106",
+        "cdn_vol": "15",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 107 - Gli inseguitori",
+        "folder_name": "Capitolo 107 - Gli inseguitori",
+        "slug": "reader/107",
+        "raw_cap": "107",
+        "cdn_cap": "107",
+        "cdn_vol": "15",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 108 - La valle della nebbia 1",
+        "folder_name": "Capitolo 108 - La valle della nebbia 1",
+        "slug": "reader/108",
+        "raw_cap": "108",
+        "cdn_cap": "108",
+        "cdn_vol": "15",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 109 - La valle della nebbia 2",
+        "folder_name": "Capitolo 109 - La valle della nebbia 2",
+        "slug": "reader/109",
+        "raw_cap": "109",
+        "cdn_cap": "109",
+        "cdn_vol": "15",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 110 - Bozzoli",
+        "folder_name": "Capitolo 110 - Bozzoli",
+        "slug": "reader/110",
+        "raw_cap": "110",
+        "cdn_cap": "110",
+        "cdn_vol": "15",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 16,
+    "volume_title": "Volume 16",
+    "cdn_vol": "16",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 111 - Mostri",
+        "folder_name": "Capitolo 111 - Mostri",
+        "slug": "reader/111",
+        "raw_cap": "111",
+        "cdn_cap": "111",
+        "cdn_vol": "16",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 112 - Il male in cielo",
+        "folder_name": "Capitolo 112 - Il male in cielo",
+        "slug": "reader/112",
+        "raw_cap": "112",
+        "cdn_cap": "112",
+        "cdn_vol": "16",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 113 - La notte si tinge di sangue",
+        "folder_name": "Capitolo 113 - La notte si tinge di sangue",
+        "slug": "reader/113",
+        "raw_cap": "113",
+        "cdn_cap": "113",
+        "cdn_vol": "16",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 114 - Tra il male e l'uomo",
+        "folder_name": "Capitolo 114 - Tra il male e l'uomo",
+        "slug": "reader/114",
+        "raw_cap": "114",
+        "cdn_cap": "114",
+        "cdn_vol": "16",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 115 - Lucciole",
+        "folder_name": "Capitolo 115 - Lucciole",
+        "slug": "reader/115",
+        "raw_cap": "115",
+        "cdn_cap": "115",
+        "cdn_vol": "16",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 116 - Ritorno a casa",
+        "folder_name": "Capitolo 116 - Ritorno a casa",
+        "slug": "reader/116",
+        "raw_cap": "116",
+        "cdn_cap": "116",
+        "cdn_vol": "16",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 117 - Un elfo nel cielo",
+        "folder_name": "Capitolo 117 - Un elfo nel cielo",
+        "slug": "reader/117",
+        "raw_cap": "117",
+        "cdn_cap": "117",
+        "cdn_vol": "16",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 118 - I capitoli della condanna: La catena immobile - La belva delle tenebre",
+        "folder_name": "Capitolo 118 - I capitoli della condanna La catena immobile - La belva delle tenebre",
+        "slug": "reader/118",
+        "raw_cap": "118",
+        "cdn_cap": "118",
+        "cdn_vol": "16",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 119 - L'ordine della sacra catena 1",
+        "folder_name": "Capitolo 119 - L'ordine della sacra catena 1",
+        "slug": "reader/119",
+        "raw_cap": "119",
+        "cdn_cap": "119",
+        "cdn_vol": "16",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 120 - L'ordine della sacra catena 2",
+        "folder_name": "Capitolo 120 - L'ordine della sacra catena 2",
+        "slug": "reader/120",
+        "raw_cap": "120",
+        "cdn_cap": "120",
+        "cdn_vol": "16",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 121 - L'idolo infranto",
+        "folder_name": "Capitolo 121 - L'idolo infranto",
+        "slug": "reader/121",
+        "raw_cap": "121",
+        "cdn_cap": "121",
+        "cdn_vol": "16",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 17,
+    "volume_title": "Volume 17",
+    "cdn_vol": "17",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 122 - Colei che non vede",
+        "folder_name": "Capitolo 122 - Colei che non vede",
+        "slug": "reader/122",
+        "raw_cap": "122",
+        "cdn_cap": "122",
+        "cdn_vol": "17",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 123 - La notte dei miracoli",
+        "folder_name": "Capitolo 123 - La notte dei miracoli",
+        "slug": "reader/123",
+        "raw_cap": "123",
+        "cdn_cap": "123",
+        "cdn_vol": "17",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 124 - Il ricordo",
+        "folder_name": "Capitolo 124 - Il ricordo",
+        "slug": "reader/124",
+        "raw_cap": "124",
+        "cdn_cap": "124",
+        "cdn_vol": "17",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 125 - La mattina della verità",
+        "folder_name": "Capitolo 125 - La mattina della verità",
+        "slug": "reader/125",
+        "raw_cap": "125",
+        "cdn_cap": "125",
+        "cdn_vol": "17",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 126 - I capitoli della condanna: La festa della rinascita - La rivelazione divina 1",
+        "folder_name": "Capitolo 126 - I capitoli della condanna La festa della rinascita - La rivelazione divina 1",
+        "slug": "reader/126",
+        "raw_cap": "126",
+        "cdn_cap": "126",
+        "cdn_vol": "17",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 127 - La rivelazione divina 2",
+        "folder_name": "Capitolo 127 - La rivelazione divina 2",
+        "slug": "reader/127",
+        "raw_cap": "127",
+        "cdn_cap": "127",
+        "cdn_vol": "17",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 128 - La rivelazione divina 3",
+        "folder_name": "Capitolo 128 - La rivelazione divina 3",
+        "slug": "reader/128",
+        "raw_cap": "128",
+        "cdn_cap": "128",
+        "cdn_vol": "17",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 129 - La crepa nella lama",
+        "folder_name": "Capitolo 129 - La crepa nella lama",
+        "slug": "reader/129",
+        "raw_cap": "129",
+        "cdn_cap": "129",
+        "cdn_vol": "17",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 130 - L'esile fiamma",
+        "folder_name": "Capitolo 130 - L'esile fiamma",
+        "slug": "reader/130",
+        "raw_cap": "130",
+        "cdn_cap": "130",
+        "cdn_vol": "17",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 131 - Verso il luogo sacro 1",
+        "folder_name": "Capitolo 131 - Verso il luogo sacro 1",
+        "slug": "reader/131",
+        "raw_cap": "131",
+        "cdn_cap": "131",
+        "cdn_vol": "17",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 132 - Verso il luogo sacro 2",
+        "folder_name": "Capitolo 132 - Verso il luogo sacro 2",
+        "slug": "reader/132",
+        "raw_cap": "132",
+        "cdn_cap": "132",
+        "cdn_vol": "17",
+        "pages_count": 22
+      }
+    ]
+  },
+  {
+    "volume_number": 18,
+    "volume_title": "Volume 18",
+    "cdn_vol": "18",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 133 - La ricognizione dei Kushan 1",
+        "folder_name": "Capitolo 133 - La ricognizione dei Kushan 1",
+        "slug": "reader/133",
+        "raw_cap": "133",
+        "cdn_cap": "133",
+        "cdn_vol": "18",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 134 - La ricognizione dei Kushan 2",
+        "folder_name": "Capitolo 134 - La ricognizione dei Kushan 2",
+        "slug": "reader/134",
+        "raw_cap": "134",
+        "cdn_cap": "134",
+        "cdn_vol": "18",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 135 - La torre delle ombre 1",
+        "folder_name": "Capitolo 135 - La torre delle ombre 1",
+        "slug": "reader/135",
+        "raw_cap": "135",
+        "cdn_cap": "135",
+        "cdn_vol": "18",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 136 - La torre delle ombre 2",
+        "folder_name": "Capitolo 136 - La torre delle ombre 2",
+        "slug": "reader/136",
+        "raw_cap": "136",
+        "cdn_cap": "136",
+        "cdn_vol": "18",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 137 - I figli dell'ombra",
+        "folder_name": "Capitolo 137 - I figli dell'ombra",
+        "slug": "reader/137",
+        "raw_cap": "137",
+        "cdn_cap": "137",
+        "cdn_vol": "18",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 138 - Il fanatico",
+        "folder_name": "Capitolo 138 - Il fanatico",
+        "slug": "reader/138",
+        "raw_cap": "138",
+        "cdn_cap": "138",
+        "cdn_vol": "18",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 139 - Le viscere del luogo sacro",
+        "folder_name": "Capitolo 139 - Le viscere del luogo sacro",
+        "slug": "reader/139",
+        "raw_cap": "139",
+        "cdn_cap": "139",
+        "cdn_vol": "18",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 140 - La strega",
+        "folder_name": "Capitolo 140 - La strega",
+        "slug": "reader/140",
+        "raw_cap": "140",
+        "cdn_cap": "140",
+        "cdn_vol": "18",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 141 - La strada dei mostri 1",
+        "folder_name": "Capitolo 141 - La strada dei mostri 1",
+        "slug": "reader/141",
+        "raw_cap": "141",
+        "cdn_cap": "141",
+        "cdn_vol": "18",
+        "pages_count": 13
+      },
+      {
+        "title": "Capitolo 142 - La strada dei mostri 2",
+        "folder_name": "Capitolo 142 - La strada dei mostri 2",
+        "slug": "reader/142",
+        "raw_cap": "142",
+        "cdn_cap": "142",
+        "cdn_vol": "18",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 143 - Le colonne di fuoco",
+        "folder_name": "Capitolo 143 - Le colonne di fuoco",
+        "slug": "reader/143",
+        "raw_cap": "143",
+        "cdn_cap": "143",
+        "cdn_vol": "18",
+        "pages_count": 21
+      }
+    ]
+  },
+  {
+    "volume_number": 19,
+    "volume_title": "Volume 19",
+    "cdn_vol": "19",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 144 - Il guerriero nero nel luogo sacro",
+        "folder_name": "Capitolo 144 - Il guerriero nero nel luogo sacro",
+        "slug": "reader/144",
+        "raw_cap": "144",
+        "cdn_cap": "144",
+        "cdn_vol": "19",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 145 - Una corsa disperata",
+        "folder_name": "Capitolo 145 - Una corsa disperata",
+        "slug": "reader/145",
+        "raw_cap": "145",
+        "cdn_cap": "145",
+        "cdn_vol": "19",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 146 - Il ragazzo ambizioso",
+        "folder_name": "Capitolo 146 - Il ragazzo ambizioso",
+        "slug": "reader/146",
+        "raw_cap": "146",
+        "cdn_cap": "146",
+        "cdn_vol": "19",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 147 - La caverna del male",
+        "folder_name": "Capitolo 147 - La caverna del male",
+        "slug": "reader/147",
+        "raw_cap": "147",
+        "cdn_cap": "147",
+        "cdn_vol": "19",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 148 - Di nuovo insieme",
+        "folder_name": "Capitolo 148 - Di nuovo insieme",
+        "slug": "reader/148",
+        "raw_cap": "148",
+        "cdn_cap": "148",
+        "cdn_vol": "19",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 149 - Il soldato in agguato",
+        "folder_name": "Capitolo 149 - Il soldato in agguato",
+        "slug": "reader/149",
+        "raw_cap": "149",
+        "cdn_cap": "149",
+        "cdn_vol": "19",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 150 - Il precipizio",
+        "folder_name": "Capitolo 150 - Il precipizio",
+        "slug": "reader/150",
+        "raw_cap": "150",
+        "cdn_cap": "150",
+        "cdn_vol": "19",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 151 - Le prigioniere",
+        "folder_name": "Capitolo 151 - Le prigioniere",
+        "slug": "reader/151",
+        "raw_cap": "151",
+        "cdn_cap": "151",
+        "cdn_vol": "19",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 152 - La vergine di ferro",
+        "folder_name": "Capitolo 152 - La vergine di ferro",
+        "slug": "reader/152",
+        "raw_cap": "152",
+        "cdn_cap": "152",
+        "cdn_vol": "19",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 153 - Il sangue dei morti 1",
+        "folder_name": "Capitolo 153 - Il sangue dei morti 1",
+        "slug": "reader/153",
+        "raw_cap": "153",
+        "cdn_cap": "153",
+        "cdn_vol": "19",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 154 - Il sangue dei morti 2",
+        "folder_name": "Capitolo 154 - Il sangue dei morti 2",
+        "slug": "reader/154",
+        "raw_cap": "154",
+        "cdn_cap": "154",
+        "cdn_vol": "19",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 20,
+    "volume_title": "Volume 20",
+    "cdn_vol": "20",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 155 - La tela del ragno",
+        "folder_name": "Capitolo 155 - La tela del ragno",
+        "slug": "reader/155",
+        "raw_cap": "155",
+        "cdn_cap": "155",
+        "cdn_vol": "20",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 156 - Chi vola in alto e chi striscia sul fondo",
+        "folder_name": "Capitolo 156 - Chi vola in alto e chi striscia sul fondo",
+        "slug": "reader/156",
+        "raw_cap": "156",
+        "cdn_cap": "156",
+        "cdn_vol": "20",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 157 - Gli angeli infernali",
+        "folder_name": "Capitolo 157 - Gli angeli infernali",
+        "slug": "reader/157",
+        "raw_cap": "157",
+        "cdn_cap": "157",
+        "cdn_vol": "20",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 158 - Lo sconosciuto in fondo alla buca",
+        "folder_name": "Capitolo 158 - Lo sconosciuto in fondo alla buca",
+        "slug": "reader/158",
+        "raw_cap": "158",
+        "cdn_cap": "158",
+        "cdn_vol": "20",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 159 - Chi ha paura",
+        "folder_name": "Capitolo 159 - Chi ha paura",
+        "slug": "reader/159",
+        "raw_cap": "159",
+        "cdn_cap": "159",
+        "cdn_vol": "20",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 160 - Il segno",
+        "folder_name": "Capitolo 160 - Il segno",
+        "slug": "reader/160",
+        "raw_cap": "160",
+        "cdn_cap": "160",
+        "cdn_vol": "20",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 161 - Il martirio",
+        "folder_name": "Capitolo 161 - Il martirio",
+        "slug": "reader/161",
+        "raw_cap": "161",
+        "cdn_cap": "161",
+        "cdn_vol": "20",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 162 - La distruzione",
+        "folder_name": "Capitolo 162 - La distruzione",
+        "slug": "reader/162",
+        "raw_cap": "162",
+        "cdn_cap": "162",
+        "cdn_vol": "20",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 163 - L'ombra dell'idea 1",
+        "folder_name": "Capitolo 163 - L'ombra dell'idea 1",
+        "slug": "reader/163",
+        "raw_cap": "163",
+        "cdn_cap": "163",
+        "cdn_vol": "20",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 164 - L'ombra dell'idea 2",
+        "folder_name": "Capitolo 164 - L'ombra dell'idea 2",
+        "slug": "reader/164",
+        "raw_cap": "164",
+        "cdn_cap": "164",
+        "cdn_vol": "20",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 165 - L'ombra dell'idea 3",
+        "folder_name": "Capitolo 165 - L'ombra dell'idea 3",
+        "slug": "reader/165",
+        "raw_cap": "165",
+        "cdn_cap": "165",
+        "cdn_vol": "20",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 21,
+    "volume_title": "Volume 21",
+    "cdn_vol": "21",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 166 - Il pesce che smuove la superficie dell'acqua",
+        "folder_name": "Capitolo 166 - Il pesce che smuove la superficie dell'acqua",
+        "slug": "reader/166",
+        "raw_cap": "166",
+        "cdn_cap": "166",
+        "cdn_vol": "21",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 167 - Il prete mostruoso 1",
+        "folder_name": "Capitolo 167 - Il prete mostruoso 1",
+        "slug": "reader/167",
+        "raw_cap": "167",
+        "cdn_cap": "167",
+        "cdn_vol": "21",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 168 - Il prete mostruoso 2",
+        "folder_name": "Capitolo 168 - Il prete mostruoso 2",
+        "slug": "reader/168",
+        "raw_cap": "168",
+        "cdn_cap": "168",
+        "cdn_vol": "21",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 169 - Chi prega e chi lotta",
+        "folder_name": "Capitolo 169 - Chi prega e chi lotta",
+        "slug": "reader/169",
+        "raw_cap": "169",
+        "cdn_cap": "169",
+        "cdn_vol": "21",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 170 - L'onda del buio 1",
+        "folder_name": "Capitolo 170 - L'onda del buio 1",
+        "slug": "reader/170",
+        "raw_cap": "170",
+        "cdn_cap": "170",
+        "cdn_vol": "21",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 171 - L'onda del buio 2",
+        "folder_name": "Capitolo 171 - L'onda del buio 2",
+        "slug": "reader/171",
+        "raw_cap": "171",
+        "cdn_cap": "171",
+        "cdn_vol": "21",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 172 - La risonanza",
+        "folder_name": "Capitolo 172 - La risonanza",
+        "slug": "reader/172",
+        "raw_cap": "172",
+        "cdn_cap": "172",
+        "cdn_vol": "21",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 173 - E il cielo cadde",
+        "folder_name": "Capitolo 173 - E il cielo cadde",
+        "slug": "reader/173",
+        "raw_cap": "173",
+        "cdn_cap": "173",
+        "cdn_vol": "21",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 174 - L'alba",
+        "folder_name": "Capitolo 174 - L'alba",
+        "slug": "reader/174",
+        "raw_cap": "174",
+        "cdn_cap": "174",
+        "cdn_vol": "21",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 175 - L'apparizione",
+        "folder_name": "Capitolo 175 - L'apparizione",
+        "slug": "reader/175",
+        "raw_cap": "175",
+        "cdn_cap": "175",
+        "cdn_vol": "21",
+        "pages_count": 16
+      },
+      {
+        "title": "Capitolo 176 - Decisione e partenza",
+        "folder_name": "Capitolo 176 - Decisione e partenza",
+        "slug": "reader/176",
+        "raw_cap": "176",
+        "cdn_cap": "176",
+        "cdn_vol": "21",
+        "pages_count": 23
+      }
+    ]
+  },
+  {
+    "volume_number": 22,
+    "volume_title": "Volume 22",
+    "cdn_vol": "22",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 177 - Il mondo che sorride",
+        "folder_name": "Capitolo 177 - Il mondo che sorride",
+        "slug": "reader/177",
+        "raw_cap": "177",
+        "cdn_cap": "177",
+        "cdn_vol": "22",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 178 - Rincontrarsi sulla collina delle spade",
+        "folder_name": "Capitolo 178 - Rincontrarsi sulla collina delle spade",
+        "slug": "reader/178",
+        "raw_cap": "178",
+        "cdn_cap": "178",
+        "cdn_vol": "22",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 179 - l guerriero bestiale contro il guerriero nero",
+        "folder_name": "Capitolo 179 - l guerriero bestiale contro il guerriero nero",
+        "slug": "reader/179",
+        "raw_cap": "179",
+        "cdn_cap": "179",
+        "cdn_vol": "22",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 180 - L'immutabilità",
+        "folder_name": "Capitolo 180 - L'immutabilità",
+        "slug": "reader/180",
+        "raw_cap": "180",
+        "cdn_cap": "180",
+        "cdn_vol": "22",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 181 - Prologo delle cronache di guerra",
+        "folder_name": "Capitolo 181 - Prologo delle cronache di guerra",
+        "slug": "reader/181",
+        "raw_cap": "181",
+        "cdn_cap": "181",
+        "cdn_vol": "22",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 182 - L'attacco dei Kushan",
+        "folder_name": "Capitolo 182 - L'attacco dei Kushan",
+        "slug": "reader/182",
+        "raw_cap": "182",
+        "cdn_cap": "182",
+        "cdn_vol": "22",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 183 - Vento di guerra 1",
+        "folder_name": "Capitolo 183 - Vento di guerra 1",
+        "slug": "reader/183",
+        "raw_cap": "183",
+        "cdn_cap": "183",
+        "cdn_vol": "22",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 184 - Vento di guerra 2",
+        "folder_name": "Capitolo 184 - Vento di guerra 2",
+        "slug": "reader/184",
+        "raw_cap": "184",
+        "cdn_cap": "184",
+        "cdn_vol": "22",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 185 - La neve e la fiamma prima parte",
+        "folder_name": "Capitolo 185 - La neve e la fiamma prima parte",
+        "slug": "reader/185",
+        "raw_cap": "185",
+        "cdn_cap": "185",
+        "cdn_vol": "22",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 186 - La neve e la fiamma seconda parte",
+        "folder_name": "Capitolo 186 - La neve e la fiamma seconda parte",
+        "slug": "reader/186",
+        "raw_cap": "186",
+        "cdn_cap": "186",
+        "cdn_vol": "22",
+        "pages_count": 23
+      }
+    ]
+  },
+  {
+    "volume_number": 23,
+    "volume_title": "Volume 23",
+    "cdn_vol": "23",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 187 - Viaggio d'inverno 1",
+        "folder_name": "Capitolo 187 - Viaggio d'inverno 1",
+        "slug": "reader/187",
+        "raw_cap": "187",
+        "cdn_cap": "187",
+        "cdn_vol": "23",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 188 - Viaggio d'inverno 2",
+        "folder_name": "Capitolo 188 - Viaggio d'inverno 2",
+        "slug": "reader/188",
+        "raw_cap": "188",
+        "cdn_cap": "188",
+        "cdn_vol": "23",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 189 - Tempo perduto",
+        "folder_name": "Capitolo 189 - Tempo perduto",
+        "slug": "reader/189",
+        "raw_cap": "189",
+        "cdn_cap": "189",
+        "cdn_vol": "23",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 190 - Zanne",
+        "folder_name": "Capitolo 190 - Zanne",
+        "slug": "reader/190",
+        "raw_cap": "190",
+        "cdn_cap": "190",
+        "cdn_vol": "23",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 191 - Rincontro nella steppa",
+        "folder_name": "Capitolo 191 - Rincontro nella steppa",
+        "slug": "reader/191",
+        "raw_cap": "191",
+        "cdn_cap": "191",
+        "cdn_vol": "23",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 192 - Guerrieri diabolici",
+        "folder_name": "Capitolo 192 - Guerrieri diabolici",
+        "slug": "reader/192",
+        "raw_cap": "192",
+        "cdn_cap": "192",
+        "cdn_vol": "23",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 193 - Il vessillo della spada volante",
+        "folder_name": "Capitolo 193 - Il vessillo della spada volante",
+        "slug": "reader/193",
+        "raw_cap": "193",
+        "cdn_cap": "193",
+        "cdn_vol": "23",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 194 - Ali di luce e ombra",
+        "folder_name": "Capitolo 194 - Ali di luce e ombra",
+        "slug": "reader/194",
+        "raw_cap": "194",
+        "cdn_cap": "194",
+        "cdn_vol": "23",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 195 - La notte delle stelle cadenti",
+        "folder_name": "Capitolo 195 - La notte delle stelle cadenti",
+        "slug": "reader/195",
+        "raw_cap": "195",
+        "cdn_cap": "195",
+        "cdn_vol": "23",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 196 - Come una bambina",
+        "folder_name": "Capitolo 196 - Come una bambina",
+        "slug": "reader/196",
+        "raw_cap": "196",
+        "cdn_cap": "196",
+        "cdn_vol": "23",
+        "pages_count": 21
+      }
+    ]
+  },
+  {
+    "volume_number": 24,
+    "volume_title": "Volume 24",
+    "cdn_vol": "24",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 197 - Troll",
+        "folder_name": "Capitolo 197 - Troll",
+        "slug": "reader/197",
+        "raw_cap": "197",
+        "cdn_cap": "197",
+        "cdn_vol": "24",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 198 - La strega",
+        "folder_name": "Capitolo 198 - La strega",
+        "slug": "reader/198",
+        "raw_cap": "198",
+        "cdn_cap": "198",
+        "cdn_vol": "24",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 199 - Il palazzo dell'albero degli spiriti 1",
+        "folder_name": "Capitolo 199 - Il palazzo dell'albero degli spiriti 1",
+        "slug": "reader/199",
+        "raw_cap": "199",
+        "cdn_cap": "199",
+        "cdn_vol": "24",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 200 - Il palazzo dell'albero degli spiriti 2",
+        "folder_name": "Capitolo 200 - Il palazzo dell'albero degli spiriti 2",
+        "slug": "reader/200",
+        "raw_cap": "200",
+        "cdn_cap": "200",
+        "cdn_vol": "24",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 201 - Il mondo degli spiriti",
+        "folder_name": "Capitolo 201 - Il mondo degli spiriti",
+        "slug": "reader/201",
+        "raw_cap": "201",
+        "cdn_cap": "201",
+        "cdn_vol": "24",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 202 - La pietra del male",
+        "folder_name": "Capitolo 202 - La pietra del male",
+        "slug": "reader/202",
+        "raw_cap": "202",
+        "cdn_cap": "202",
+        "cdn_vol": "24",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 203 - Spiriti elementali",
+        "folder_name": "Capitolo 203 - Spiriti elementali",
+        "slug": "reader/203",
+        "raw_cap": "203",
+        "cdn_cap": "203",
+        "cdn_vol": "24",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 204 - Ambizione e ricordi 1",
+        "folder_name": "Capitolo 204 - Ambizione e ricordi 1",
+        "slug": "reader/204",
+        "raw_cap": "204",
+        "cdn_cap": "204",
+        "cdn_vol": "24",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 205 - Ambizione e ricordi 2",
+        "folder_name": "Capitolo 205 - Ambizione e ricordi 2",
+        "slug": "reader/205",
+        "raw_cap": "205",
+        "cdn_cap": "205",
+        "cdn_vol": "24",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 206 - L'attacco dei troll",
+        "folder_name": "Capitolo 206 - L'attacco dei troll",
+        "slug": "reader/206",
+        "raw_cap": "206",
+        "cdn_cap": "206",
+        "cdn_vol": "24",
+        "pages_count": 16
+      }
+    ]
+  },
+  {
+    "volume_number": 25,
+    "volume_title": "Volume 25",
+    "cdn_vol": "25",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 207 - La spada magica",
+        "folder_name": "Capitolo 207 - La spada magica",
+        "slug": "reader/207",
+        "raw_cap": "207",
+        "cdn_cap": "207",
+        "cdn_vol": "25",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 208 - Lo specchio del peccato",
+        "folder_name": "Capitolo 208 - Lo specchio del peccato",
+        "slug": "reader/208",
+        "raw_cap": "208",
+        "cdn_cap": "208",
+        "cdn_vol": "25",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 209 - La magia",
+        "folder_name": "Capitolo 209 - La magia",
+        "slug": "reader/209",
+        "raw_cap": "209",
+        "cdn_cap": "209",
+        "cdn_vol": "25",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 210 - Il culmine della preghiera",
+        "folder_name": "Capitolo 210 - Il culmine della preghiera",
+        "slug": "reader/210",
+        "raw_cap": "210",
+        "cdn_cap": "210",
+        "cdn_vol": "25",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 211 - Il branco del male 1",
+        "folder_name": "Capitolo 211 - Il branco del male 1",
+        "slug": "reader/211",
+        "raw_cap": "211",
+        "cdn_cap": "211",
+        "cdn_vol": "25",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 212 - Il branco del male 2",
+        "folder_name": "Capitolo 212 - Il branco del male 2",
+        "slug": "reader/212",
+        "raw_cap": "212",
+        "cdn_cap": "212",
+        "cdn_vol": "25",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 213 - Rapide",
+        "folder_name": "Capitolo 213 - Rapide",
+        "slug": "reader/213",
+        "raw_cap": "213",
+        "cdn_cap": "213",
+        "cdn_vol": "25",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 214 - La sciamana",
+        "folder_name": "Capitolo 214 - La sciamana",
+        "slug": "reader/214",
+        "raw_cap": "214",
+        "cdn_cap": "214",
+        "cdn_vol": "25",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 215 - Il clifoto",
+        "folder_name": "Capitolo 215 - Il clifoto",
+        "slug": "reader/215",
+        "raw_cap": "215",
+        "cdn_cap": "215",
+        "cdn_vol": "25",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 216 - Sudiciume",
+        "folder_name": "Capitolo 216 - Sudiciume",
+        "slug": "reader/216",
+        "raw_cap": "216",
+        "cdn_cap": "216",
+        "cdn_vol": "25",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 26,
+    "volume_title": "Volume 26",
+    "cdn_vol": "26",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 217 - Punizione",
+        "folder_name": "Capitolo 217 - Punizione",
+        "slug": "reader/217",
+        "raw_cap": "217",
+        "cdn_cap": "217",
+        "cdn_vol": "26",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 218 - Salvezza",
+        "folder_name": "Capitolo 218 - Salvezza",
+        "slug": "reader/218",
+        "raw_cap": "218",
+        "cdn_cap": "218",
+        "cdn_vol": "26",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 219 - Sull'orlo dell'Ade",
+        "folder_name": "Capitolo 219 - Sull'orlo dell'Ade",
+        "slug": "reader/219",
+        "raw_cap": "219",
+        "cdn_cap": "219",
+        "cdn_vol": "26",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 220 - La meretrice di visceri",
+        "folder_name": "Capitolo 220 - La meretrice di visceri",
+        "slug": "reader/220",
+        "raw_cap": "220",
+        "cdn_cap": "220",
+        "cdn_vol": "26",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 221 - Compagni",
+        "folder_name": "Capitolo 221 - Compagni",
+        "slug": "reader/221",
+        "raw_cap": "221",
+        "cdn_cap": "221",
+        "cdn_vol": "26",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 222 - Graffi",
+        "folder_name": "Capitolo 222 - Graffi",
+        "slug": "reader/222",
+        "raw_cap": "222",
+        "cdn_cap": "222",
+        "cdn_vol": "26",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 223 - Fiamme 1",
+        "folder_name": "Capitolo 223 - Fiamme 1",
+        "slug": "reader/223",
+        "raw_cap": "223",
+        "cdn_cap": "223",
+        "cdn_vol": "26",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 224 - Fiamme 2",
+        "folder_name": "Capitolo 224 - Fiamme 2",
+        "slug": "reader/224",
+        "raw_cap": "224",
+        "cdn_cap": "224",
+        "cdn_vol": "26",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 225 - L'armatura del Berserk 1",
+        "folder_name": "Capitolo 225 - L'armatura del Berserk 1",
+        "slug": "reader/225",
+        "raw_cap": "225",
+        "cdn_cap": "225",
+        "cdn_vol": "26",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 226 - L'armatura del Berserk 2",
+        "folder_name": "Capitolo 226 - L'armatura del Berserk 2",
+        "slug": "reader/226",
+        "raw_cap": "226",
+        "cdn_cap": "226",
+        "cdn_vol": "26",
+        "pages_count": 22
+      }
+    ]
+  },
+  {
+    "volume_number": 27,
+    "volume_title": "Volume 27",
+    "cdn_vol": "27",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 227 - Il drago del fuoco",
+        "folder_name": "Capitolo 227 - Il drago del fuoco",
+        "slug": "reader/227",
+        "raw_cap": "227",
+        "cdn_cap": "227",
+        "cdn_vol": "27",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 228 - Il fondo della fiamma",
+        "folder_name": "Capitolo 228 - Il fondo della fiamma",
+        "slug": "reader/228",
+        "raw_cap": "228",
+        "cdn_cap": "228",
+        "cdn_vol": "27",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 229 - La partenza della fiamma",
+        "folder_name": "Capitolo 229 - La partenza della fiamma",
+        "slug": "reader/229",
+        "raw_cap": "229",
+        "cdn_cap": "229",
+        "cdn_vol": "27",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 230 - La città stregata",
+        "folder_name": "Capitolo 230 - La città stregata",
+        "slug": "reader/230",
+        "raw_cap": "230",
+        "cdn_cap": "230",
+        "cdn_vol": "27",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 231 - L'imperatore del terrore",
+        "folder_name": "Capitolo 231 - L'imperatore del terrore",
+        "slug": "reader/231",
+        "raw_cap": "231",
+        "cdn_cap": "231",
+        "cdn_vol": "27",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 232 - I darka, i soldati-orchi",
+        "folder_name": "Capitolo 232 - I darka, i soldati-orchi",
+        "slug": "reader/232",
+        "raw_cap": "232",
+        "cdn_cap": "232",
+        "cdn_vol": "27",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 233 - I cavalieri demoniaci",
+        "folder_name": "Capitolo 233 - I cavalieri demoniaci",
+        "slug": "reader/233",
+        "raw_cap": "233",
+        "cdn_cap": "233",
+        "cdn_vol": "27",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 234 - Il diavolo",
+        "folder_name": "Capitolo 234 - Il diavolo",
+        "slug": "reader/234",
+        "raw_cap": "234",
+        "cdn_cap": "234",
+        "cdn_vol": "27",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 235 - Il risveglio della principessa addormentata",
+        "folder_name": "Capitolo 235 - Il risveglio della principessa addormentata",
+        "slug": "reader/235",
+        "raw_cap": "235",
+        "cdn_cap": "235",
+        "cdn_vol": "27",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 236 - I capitoli del falco del regno millenario: Falconia - Il fragore del mare",
+        "folder_name": "Capitolo 236 - I capitoli del falco del regno millenario Falconia - Il fragore del mare",
+        "slug": "reader/236",
+        "raw_cap": "236",
+        "cdn_cap": "236",
+        "cdn_vol": "27",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 28,
+    "volume_title": "Volume 28",
+    "cdn_vol": "28",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 237 - I segni annunciati",
+        "folder_name": "Capitolo 237 - I segni annunciati",
+        "slug": "reader/237",
+        "raw_cap": "237",
+        "cdn_cap": "237",
+        "cdn_vol": "28",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 238 - Un bambino sotto la luna",
+        "folder_name": "Capitolo 238 - Un bambino sotto la luna",
+        "slug": "reader/238",
+        "raw_cap": "238",
+        "cdn_cap": "238",
+        "cdn_vol": "28",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 239 - I messaggeri del male",
+        "folder_name": "Capitolo 239 - I messaggeri del male",
+        "slug": "reader/239",
+        "raw_cap": "239",
+        "cdn_cap": "239",
+        "cdn_vol": "28",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 240 - Nebbia malvagia",
+        "folder_name": "Capitolo 240 - Nebbia malvagia",
+        "slug": "reader/240",
+        "raw_cap": "240",
+        "cdn_cap": "240",
+        "cdn_vol": "28",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 241 - Il makara, la belva del mare",
+        "folder_name": "Capitolo 241 - Il makara, la belva del mare",
+        "slug": "reader/241",
+        "raw_cap": "241",
+        "cdn_cap": "241",
+        "cdn_vol": "28",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 242 - Il boato del mare",
+        "folder_name": "Capitolo 242 - Il boato del mare",
+        "slug": "reader/242",
+        "raw_cap": "242",
+        "cdn_cap": "242",
+        "cdn_vol": "28",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 243 - Il Jananin, l'essere supremo",
+        "folder_name": "Capitolo 243 - Il Jananin, l'essere supremo",
+        "slug": "reader/243",
+        "raw_cap": "243",
+        "cdn_cap": "243",
+        "cdn_vol": "28",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 244 - La città prescelta",
+        "folder_name": "Capitolo 244 - La città prescelta",
+        "slug": "reader/244",
+        "raw_cap": "244",
+        "cdn_cap": "244",
+        "cdn_vol": "28",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 245 - La città degli uomini",
+        "folder_name": "Capitolo 245 - La città degli uomini",
+        "slug": "reader/245",
+        "raw_cap": "245",
+        "cdn_cap": "245",
+        "cdn_vol": "28",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 246 - Il nibbio e la civetta sul molo",
+        "folder_name": "Capitolo 246 - Il nibbio e la civetta sul molo",
+        "slug": "reader/246",
+        "raw_cap": "246",
+        "cdn_cap": "246",
+        "cdn_vol": "28",
+        "pages_count": 22
+      }
+    ]
+  },
+  {
+    "volume_number": 29,
+    "volume_title": "Volume 29",
+    "cdn_vol": "29",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 247 - Il colpo di spada",
+        "folder_name": "Capitolo 247 - Il colpo di spada",
+        "slug": "reader/247",
+        "raw_cap": "247",
+        "cdn_cap": "247",
+        "cdn_vol": "29",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 248 - Il cavaliere",
+        "folder_name": "Capitolo 248 - Il cavaliere",
+        "slug": "reader/248",
+        "raw_cap": "248",
+        "cdn_cap": "248",
+        "cdn_vol": "29",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 249 - Una cena modesta",
+        "folder_name": "Capitolo 249 - Una cena modesta",
+        "slug": "reader/249",
+        "raw_cap": "249",
+        "cdn_cap": "249",
+        "cdn_vol": "29",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 250 - Ritorno al nido",
+        "folder_name": "Capitolo 250 - Ritorno al nido",
+        "slug": "reader/250",
+        "raw_cap": "250",
+        "cdn_cap": "250",
+        "cdn_vol": "29",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 251 - Vandimion",
+        "folder_name": "Capitolo 251 - Vandimion",
+        "slug": "reader/251",
+        "raw_cap": "251",
+        "cdn_cap": "251",
+        "cdn_vol": "29",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 252 - Nel giardino",
+        "folder_name": "Capitolo 252 - Nel giardino",
+        "slug": "reader/252",
+        "raw_cap": "252",
+        "cdn_cap": "252",
+        "cdn_vol": "29",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 253 - Il giglio bianco e selvatico",
+        "folder_name": "Capitolo 253 - Il giglio bianco e selvatico",
+        "slug": "reader/253",
+        "raw_cap": "253",
+        "cdn_cap": "253",
+        "cdn_vol": "29",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 254 - La madre",
+        "folder_name": "Capitolo 254 - La madre",
+        "slug": "reader/254",
+        "raw_cap": "254",
+        "cdn_cap": "254",
+        "cdn_vol": "29",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 255 - La festa da ballo",
+        "folder_name": "Capitolo 255 - La festa da ballo",
+        "slug": "reader/255",
+        "raw_cap": "255",
+        "cdn_cap": "255",
+        "cdn_vol": "29",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 256 - Il colonnato",
+        "folder_name": "Capitolo 256 - Il colonnato",
+        "slug": "reader/256",
+        "raw_cap": "256",
+        "cdn_cap": "256",
+        "cdn_vol": "29",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 30,
+    "volume_title": "Volume 30",
+    "cdn_vol": "30",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 257 - Il duello",
+        "folder_name": "Capitolo 257 - Il duello",
+        "slug": "reader/257",
+        "raw_cap": "257",
+        "cdn_cap": "257",
+        "cdn_vol": "30",
+        "pages_count": 26
+      },
+      {
+        "title": "Capitolo 258 - Il sovrano dei regni fedeli",
+        "folder_name": "Capitolo 258 - Il sovrano dei regni fedeli",
+        "slug": "reader/258",
+        "raw_cap": "258",
+        "cdn_cap": "258",
+        "cdn_vol": "30",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 259 - La tigre diabolica",
+        "folder_name": "Capitolo 259 - La tigre diabolica",
+        "slug": "reader/259",
+        "raw_cap": "259",
+        "cdn_cap": "259",
+        "cdn_vol": "30",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 260 - L'irruzione",
+        "folder_name": "Capitolo 260 - L'irruzione",
+        "slug": "reader/260",
+        "raw_cap": "260",
+        "cdn_cap": "260",
+        "cdn_vol": "30",
+        "pages_count": 16
+      },
+      {
+        "title": "Capitolo 261 - La gabbia arrugginita",
+        "folder_name": "Capitolo 261 - La gabbia arrugginita",
+        "slug": "reader/261",
+        "raw_cap": "261",
+        "cdn_cap": "261",
+        "cdn_vol": "30",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 262 - La proclamazione delle ostilità",
+        "folder_name": "Capitolo 262 - La proclamazione delle ostilità",
+        "slug": "reader/262",
+        "raw_cap": "262",
+        "cdn_cap": "262",
+        "cdn_vol": "30",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 263 - L'invasione delle bestie malvagie",
+        "folder_name": "Capitolo 263 - L'invasione delle bestie malvagie",
+        "slug": "reader/263",
+        "raw_cap": "263",
+        "cdn_cap": "263",
+        "cdn_vol": "30",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 264 - La guida del cielo",
+        "folder_name": "Capitolo 264 - La guida del cielo",
+        "slug": "reader/264",
+        "raw_cap": "264",
+        "cdn_cap": "264",
+        "cdn_vol": "30",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 265 - La città delle bestie malvagie 1",
+        "folder_name": "Capitolo 265 - La città delle bestie malvagie 1",
+        "slug": "reader/265",
+        "raw_cap": "265",
+        "cdn_cap": "265",
+        "cdn_vol": "30",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 266 - La città delle bestie malvagie 2",
+        "folder_name": "Capitolo 266 - La città delle bestie malvagie 2",
+        "slug": "reader/266",
+        "raw_cap": "266",
+        "cdn_cap": "266",
+        "cdn_vol": "30",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 31,
+    "volume_title": "Volume 31",
+    "cdn_vol": "31",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 267 - Il porto in fiamme",
+        "folder_name": "Capitolo 267 - Il porto in fiamme",
+        "slug": "reader/267",
+        "raw_cap": "267",
+        "cdn_cap": "267",
+        "cdn_vol": "31",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 268 - Il disco di fiamma (Blaze Rod)",
+        "folder_name": "Capitolo 268 - Il disco di fiamma (Blaze Rod)",
+        "slug": "reader/268",
+        "raw_cap": "268",
+        "cdn_cap": "268",
+        "cdn_vol": "31",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 269 - La bestia con la spada",
+        "folder_name": "Capitolo 269 - La bestia con la spada",
+        "slug": "reader/269",
+        "raw_cap": "269",
+        "cdn_cap": "269",
+        "cdn_vol": "31",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 270 - Il comandante mago (Paramarishia senai)",
+        "folder_name": "Capitolo 270 - Il comandante mago (Paramarishia senai)",
+        "slug": "reader/270",
+        "raw_cap": "270",
+        "cdn_cap": "270",
+        "cdn_vol": "31",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 271 - Magia orientale",
+        "folder_name": "Capitolo 271 - Magia orientale",
+        "slug": "reader/271",
+        "raw_cap": "271",
+        "cdn_cap": "271",
+        "cdn_vol": "31",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 272 - Il serpente",
+        "folder_name": "Capitolo 272 - Il serpente",
+        "slug": "reader/272",
+        "raw_cap": "272",
+        "cdn_cap": "272",
+        "cdn_vol": "31",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 273 - La fiamma esplosiva",
+        "folder_name": "Capitolo 273 - La fiamma esplosiva",
+        "slug": "reader/273",
+        "raw_cap": "273",
+        "cdn_cap": "273",
+        "cdn_vol": "31",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 274 - L'imperatore dei fulmini",
+        "folder_name": "Capitolo 274 - L'imperatore dei fulmini",
+        "slug": "reader/274",
+        "raw_cap": "274",
+        "cdn_cap": "274",
+        "cdn_vol": "31",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 275 - L'arrivo dell'esercito del male",
+        "folder_name": "Capitolo 275 - L'arrivo dell'esercito del male",
+        "slug": "reader/275",
+        "raw_cap": "275",
+        "cdn_cap": "275",
+        "cdn_vol": "31",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 276 - La nuvola colossale",
+        "folder_name": "Capitolo 276 - La nuvola colossale",
+        "slug": "reader/276",
+        "raw_cap": "276",
+        "cdn_cap": "276",
+        "cdn_vol": "31",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 32,
+    "volume_title": "Volume 32",
+    "cdn_vol": "32",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 277 - Un attacco disperato",
+        "folder_name": "Capitolo 277 - Un attacco disperato",
+        "slug": "reader/277",
+        "raw_cap": "277",
+        "cdn_cap": "277",
+        "cdn_vol": "32",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 278 - Salpando",
+        "folder_name": "Capitolo 278 - Salpando",
+        "slug": "reader/278",
+        "raw_cap": "278",
+        "cdn_cap": "278",
+        "cdn_vol": "32",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 279 - La grande invasione 1",
+        "folder_name": "Capitolo 279 - La grande invasione 1",
+        "slug": "reader/279",
+        "raw_cap": "279",
+        "cdn_cap": "279",
+        "cdn_vol": "32",
+        "pages_count": 12
+      },
+      {
+        "title": "Capitolo 280 - La grande invasione 2",
+        "folder_name": "Capitolo 280 - La grande invasione 2",
+        "slug": "reader/280",
+        "raw_cap": "280",
+        "cdn_cap": "280",
+        "cdn_vol": "32",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 281 - Arrivare in volo",
+        "folder_name": "Capitolo 281 - Arrivare in volo",
+        "slug": "reader/281",
+        "raw_cap": "281",
+        "cdn_cap": "281",
+        "cdn_vol": "32",
+        "pages_count": 25
+      },
+      {
+        "title": "Capitolo 282 - Dividere il campo di battaglia",
+        "folder_name": "Capitolo 282 - Dividere il campo di battaglia",
+        "slug": "reader/282",
+        "raw_cap": "282",
+        "cdn_cap": "282",
+        "cdn_vol": "32",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 283 - Vento forte",
+        "folder_name": "Capitolo 283 - Vento forte",
+        "slug": "reader/283",
+        "raw_cap": "283",
+        "cdn_cap": "283",
+        "cdn_vol": "32",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 284 - L'esercito regolare delle Midlands",
+        "folder_name": "Capitolo 284 - L'esercito regolare delle Midlands",
+        "slug": "reader/284",
+        "raw_cap": "284",
+        "cdn_cap": "284",
+        "cdn_vol": "32",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 285 - Eroe",
+        "folder_name": "Capitolo 285 - Eroe",
+        "slug": "reader/285",
+        "raw_cap": "285",
+        "cdn_cap": "285",
+        "cdn_vol": "32",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 286 - Sulla nave",
+        "folder_name": "Capitolo 286 - Sulla nave",
+        "slug": "reader/286",
+        "raw_cap": "286",
+        "cdn_cap": "286",
+        "cdn_vol": "32",
+        "pages_count": 20
+      }
+    ]
+  },
+  {
+    "volume_number": 33,
+    "volume_title": "Volume 33",
+    "cdn_vol": "33",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 287 - Futilità",
+        "folder_name": "Capitolo 287 - Futilità",
+        "slug": "reader/287",
+        "raw_cap": "287",
+        "cdn_cap": "287",
+        "cdn_vol": "33",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 288 - Battaglia navale 1",
+        "folder_name": "Capitolo 288 - Battaglia navale 1",
+        "slug": "reader/288",
+        "raw_cap": "288",
+        "cdn_cap": "288",
+        "cdn_vol": "33",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 289 - Battaglia navale 2",
+        "folder_name": "Capitolo 289 - Battaglia navale 2",
+        "slug": "reader/289",
+        "raw_cap": "289",
+        "cdn_cap": "289",
+        "cdn_vol": "33",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 290 - Ruggiti dalle tenebre",
+        "folder_name": "Capitolo 290 - Ruggiti dalle tenebre",
+        "slug": "reader/290",
+        "raw_cap": "290",
+        "cdn_cap": "290",
+        "cdn_vol": "33",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 291 - Il sogno premonitore",
+        "folder_name": "Capitolo 291 - Il sogno premonitore",
+        "slug": "reader/291",
+        "raw_cap": "291",
+        "cdn_cap": "291",
+        "cdn_vol": "33",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 292 - La nebbia mortale",
+        "folder_name": "Capitolo 292 - La nebbia mortale",
+        "slug": "reader/292",
+        "raw_cap": "292",
+        "cdn_cap": "292",
+        "cdn_vol": "33",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 293 - La quiete nell'oscurità",
+        "folder_name": "Capitolo 293 - La quiete nell'oscurità",
+        "slug": "reader/293",
+        "raw_cap": "293",
+        "cdn_cap": "293",
+        "cdn_vol": "33",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 294 - L'esodo",
+        "folder_name": "Capitolo 294 - L'esodo",
+        "slug": "reader/294",
+        "raw_cap": "294",
+        "cdn_cap": "294",
+        "cdn_vol": "33",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 295 - Shiva, il dio della fine (Non Dio)",
+        "folder_name": "Capitolo 295 - Shiva, il dio della fine (Non Dio)",
+        "slug": "reader/295",
+        "raw_cap": "295",
+        "cdn_cap": "295",
+        "cdn_vol": "33",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 296 - Un frastuono nel cielo",
+        "folder_name": "Capitolo 296 - Un frastuono nel cielo",
+        "slug": "reader/296",
+        "raw_cap": "296",
+        "cdn_cap": "296",
+        "cdn_vol": "33",
+        "pages_count": 21
+      }
+    ]
+  },
+  {
+    "volume_number": 34,
+    "volume_title": "Volume 34",
+    "cdn_vol": "34",
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "title": "Capitolo 297 - Il dio ottenebrato",
+        "folder_name": "Capitolo 297 - Il dio ottenebrato",
+        "slug": "reader/297",
+        "raw_cap": "297",
+        "cdn_cap": "297",
+        "cdn_vol": "34",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 298 - Scatenare il male",
+        "folder_name": "Capitolo 298 - Scatenare il male",
+        "slug": "reader/298",
+        "raw_cap": "298",
+        "cdn_cap": "298",
+        "cdn_vol": "34",
+        "pages_count": 9
+      },
+      {
+        "title": "Capitolo 299 - La battaglia inumana",
+        "folder_name": "Capitolo 299 - La battaglia inumana",
+        "slug": "reader/299",
+        "raw_cap": "299",
+        "cdn_cap": "299",
+        "cdn_vol": "34",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 300 - La sacerdotessa del Falco",
+        "folder_name": "Capitolo 300 - La sacerdotessa del Falco",
+        "slug": "reader/300",
+        "raw_cap": "300",
+        "cdn_cap": "300",
+        "cdn_vol": "34",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 301 - Il caos",
+        "folder_name": "Capitolo 301 - Il caos",
+        "slug": "reader/301",
+        "raw_cap": "301",
+        "cdn_cap": "301",
+        "cdn_vol": "34",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 302 - Il volo",
+        "folder_name": "Capitolo 302 - Il volo",
+        "slug": "reader/302",
+        "raw_cap": "302",
+        "cdn_cap": "302",
+        "cdn_vol": "34",
+        "pages_count": 14
+      },
+      {
+        "title": "Capitolo 303 - Controluce",
+        "folder_name": "Capitolo 303 - Controluce",
+        "slug": "reader/303",
+        "raw_cap": "303",
+        "cdn_cap": "303",
+        "cdn_vol": "34",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 304 - La fenditura",
+        "folder_name": "Capitolo 304 - La fenditura",
+        "slug": "reader/304",
+        "raw_cap": "304",
+        "cdn_cap": "304",
+        "cdn_vol": "34",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 305 - L'inizio del mondo",
+        "folder_name": "Capitolo 305 - L'inizio del mondo",
+        "slug": "reader/305",
+        "raw_cap": "305",
+        "cdn_cap": "305",
+        "cdn_vol": "34",
+        "pages_count": 14
+      },
+      {
+        "title": "Capitolo 306 - Il mondo fantastico",
+        "folder_name": "Capitolo 306 - Il mondo fantastico",
+        "slug": "reader/306",
+        "raw_cap": "306",
+        "cdn_cap": "306",
+        "cdn_vol": "34",
+        "pages_count": 13
+      }
+    ]
+  },
+  {
+    "volume_number": 35,
+    "volume_title": "Volume 35",
+    "cdn_vol": "35",
+    "chapters_count": 9,
+    "chapters": [
+      {
+        "title": "Capitolo 307 - La città del Falco",
+        "folder_name": "Capitolo 307 - La città del Falco",
+        "slug": "reader/307",
+        "raw_cap": "307",
+        "cdn_cap": "307",
+        "cdn_vol": "35",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 308 - I capitoli del mondo fantastico: L'isola degli elfi - La nave fantasma 1",
+        "folder_name": "Capitolo 308 - I capitoli del mondo fantastico L'isola degli elfi - La nave fantasma 1",
+        "slug": "reader/308",
+        "raw_cap": "308",
+        "cdn_cap": "308",
+        "cdn_vol": "35",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 309 - La nave fantasma 2",
+        "folder_name": "Capitolo 309 - La nave fantasma 2",
+        "slug": "reader/309",
+        "raw_cap": "309",
+        "cdn_cap": "309",
+        "cdn_vol": "35",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 310 - La nave fantasma 3",
+        "folder_name": "Capitolo 310 - La nave fantasma 3",
+        "slug": "reader/310",
+        "raw_cap": "310",
+        "cdn_cap": "310",
+        "cdn_vol": "35",
+        "pages_count": 16
+      },
+      {
+        "title": "Capitolo 311 - L'isola sperduta",
+        "folder_name": "Capitolo 311 - L'isola sperduta",
+        "slug": "reader/311",
+        "raw_cap": "311",
+        "cdn_cap": "311",
+        "cdn_vol": "35",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 312 - La ragazza delle mareggiate",
+        "folder_name": "Capitolo 312 - La ragazza delle mareggiate",
+        "slug": "reader/312",
+        "raw_cap": "312",
+        "cdn_cap": "312",
+        "cdn_vol": "35",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 313 - Le genti del Mare Maledetto",
+        "folder_name": "Capitolo 313 - Le genti del Mare Maledetto",
+        "slug": "reader/313",
+        "raw_cap": "313",
+        "cdn_cap": "313",
+        "cdn_vol": "35",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 314 - Tentacoli umani",
+        "folder_name": "Capitolo 314 - Tentacoli umani",
+        "slug": "reader/314",
+        "raw_cap": "314",
+        "cdn_cap": "314",
+        "cdn_vol": "35",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 315 - La nave tentacolare",
+        "folder_name": "Capitolo 315 - La nave tentacolare",
+        "slug": "reader/315",
+        "raw_cap": "315",
+        "cdn_cap": "315",
+        "cdn_vol": "35",
+        "pages_count": 19
+      }
+    ]
+  },
+  {
+    "volume_number": 36,
+    "volume_title": "Volume 36",
+    "cdn_vol": "36",
+    "chapters_count": 9,
+    "chapters": [
+      {
+        "title": "Capitolo 316 - La luna piena 1",
+        "folder_name": "Capitolo 316 - La luna piena 1",
+        "slug": "reader/316",
+        "raw_cap": "316",
+        "cdn_cap": "316",
+        "cdn_vol": "36",
+        "pages_count": 27
+      },
+      {
+        "title": "Capitolo 317 - La luna piena 2",
+        "folder_name": "Capitolo 317 - La luna piena 2",
+        "slug": "reader/317",
+        "raw_cap": "317",
+        "cdn_cap": "317",
+        "cdn_vol": "36",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 318 - Il guerriero ferino",
+        "folder_name": "Capitolo 318 - Il guerriero ferino",
+        "slug": "reader/318",
+        "raw_cap": "318",
+        "cdn_cap": "318",
+        "cdn_vol": "36",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 319 - Il dio del mare 1",
+        "folder_name": "Capitolo 319 - Il dio del mare 1",
+        "slug": "reader/319",
+        "raw_cap": "319",
+        "cdn_cap": "319",
+        "cdn_vol": "36",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 320 - Il dio del mare 2",
+        "folder_name": "Capitolo 320 - Il dio del mare 2",
+        "slug": "reader/320",
+        "raw_cap": "320",
+        "cdn_cap": "320",
+        "cdn_vol": "36",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 321 - Il dio del mare 3",
+        "folder_name": "Capitolo 321 - Il dio del mare 3",
+        "slug": "reader/321",
+        "raw_cap": "321",
+        "cdn_cap": "321",
+        "cdn_vol": "36",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 322 - Il cuore vibrante",
+        "folder_name": "Capitolo 322 - Il cuore vibrante",
+        "slug": "reader/322",
+        "raw_cap": "322",
+        "cdn_cap": "322",
+        "cdn_vol": "36",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 323 - Il richiamo dal profondo",
+        "folder_name": "Capitolo 323 - Il richiamo dal profondo",
+        "slug": "reader/323",
+        "raw_cap": "323",
+        "cdn_cap": "323",
+        "cdn_vol": "36",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 324 - La sirena 1",
+        "folder_name": "Capitolo 324 - La sirena 1",
+        "slug": "reader/324",
+        "raw_cap": "324",
+        "cdn_cap": "324",
+        "cdn_vol": "36",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 37,
+    "volume_title": "Volume 37",
+    "cdn_vol": "37",
+    "chapters_count": 9,
+    "chapters": [
+      {
+        "title": "Capitolo 325 - La sirena 2",
+        "folder_name": "Capitolo 325 - La sirena 2",
+        "slug": "reader/325",
+        "raw_cap": "325",
+        "cdn_cap": "325",
+        "cdn_vol": "37",
+        "pages_count": 31
+      },
+      {
+        "title": "Capitolo 326 - Unione vocale",
+        "folder_name": "Capitolo 326 - Unione vocale",
+        "slug": "reader/326",
+        "raw_cap": "326",
+        "cdn_cap": "326",
+        "cdn_vol": "37",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 327 - L'emersione",
+        "folder_name": "Capitolo 327 - L'emersione",
+        "slug": "reader/327",
+        "raw_cap": "327",
+        "cdn_cap": "327",
+        "cdn_vol": "37",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 328 - Una stella cadente",
+        "folder_name": "Capitolo 328 - Una stella cadente",
+        "slug": "reader/328",
+        "raw_cap": "328",
+        "cdn_cap": "328",
+        "cdn_vol": "37",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 329 - Il fiore primaverile di un giorno lontano 1",
+        "folder_name": "Capitolo 329 - Il fiore primaverile di un giorno lontano 1",
+        "slug": "reader/329",
+        "raw_cap": "329",
+        "cdn_cap": "329",
+        "cdn_vol": "37",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 330 - Il fiore primaverile di un giorno lontano 2",
+        "folder_name": "Capitolo 330 - Il fiore primaverile di un giorno lontano 2",
+        "slug": "reader/330",
+        "raw_cap": "330",
+        "cdn_cap": "330",
+        "cdn_vol": "37",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 331 - Il fiore primaverile di un giorno lontano 3",
+        "folder_name": "Capitolo 331 - Il fiore primaverile di un giorno lontano 3",
+        "slug": "reader/331",
+        "raw_cap": "331",
+        "cdn_cap": "331",
+        "cdn_vol": "37",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 332 - Il carro coperto",
+        "folder_name": "Capitolo 332 - Il carro coperto",
+        "slug": "reader/332",
+        "raw_cap": "332",
+        "cdn_cap": "332",
+        "cdn_vol": "37",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 333 - Il paradiso",
+        "folder_name": "Capitolo 333 - Il paradiso",
+        "slug": "reader/333",
+        "raw_cap": "333",
+        "cdn_cap": "333",
+        "cdn_vol": "37",
+        "pages_count": 16
+      }
+    ]
+  },
+  {
+    "volume_number": 38,
+    "volume_title": "Volume 38",
+    "cdn_vol": "38",
+    "chapters_count": 9,
+    "chapters": [
+      {
+        "title": "Capitolo 334 - La città degli umani",
+        "folder_name": "Capitolo 334 - La città degli umani",
+        "slug": "reader/334",
+        "raw_cap": "334",
+        "cdn_cap": "334",
+        "cdn_vol": "38",
+        "pages_count": 25
+      },
+      {
+        "title": "Capitolo 335 - Il diritto divino dei re",
+        "folder_name": "Capitolo 335 - Il diritto divino dei re",
+        "slug": "reader/335",
+        "raw_cap": "335",
+        "cdn_cap": "335",
+        "cdn_vol": "38",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 336 - Il pandemonio",
+        "folder_name": "Capitolo 336 - Il pandemonio",
+        "slug": "reader/336",
+        "raw_cap": "336",
+        "cdn_cap": "336",
+        "cdn_vol": "38",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 337 - Il ponte della separazione",
+        "folder_name": "Capitolo 337 - Il ponte della separazione",
+        "slug": "reader/337",
+        "raw_cap": "337",
+        "cdn_cap": "337",
+        "cdn_vol": "38",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 338 - Il sicario del crepuscolo",
+        "folder_name": "Capitolo 338 - Il sicario del crepuscolo",
+        "slug": "reader/338",
+        "raw_cap": "338",
+        "cdn_cap": "338",
+        "cdn_vol": "38",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 339 - La capitale illuminata dalla luna",
+        "folder_name": "Capitolo 339 - La capitale illuminata dalla luna",
+        "slug": "reader/339",
+        "raw_cap": "339",
+        "cdn_cap": "339",
+        "cdn_vol": "38",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 340 - Combattere al buio",
+        "folder_name": "Capitolo 340 - Combattere al buio",
+        "slug": "reader/340",
+        "raw_cap": "340",
+        "cdn_cap": "340",
+        "cdn_vol": "38",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 341 - Fuga in volo",
+        "folder_name": "Capitolo 341 - Fuga in volo",
+        "slug": "reader/341",
+        "raw_cap": "341",
+        "cdn_cap": "341",
+        "cdn_vol": "38",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 342 - Lo sbarco",
+        "folder_name": "Capitolo 342 - Lo sbarco",
+        "slug": "reader/342",
+        "raw_cap": "342",
+        "cdn_cap": "342",
+        "cdn_vol": "38",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 39,
+    "volume_title": "Volume 39",
+    "cdn_vol": "39",
+    "chapters_count": 8,
+    "chapters": [
+      {
+        "title": "Capitolo 343 - Pupazzo in fiamme",
+        "folder_name": "Capitolo 343 - Pupazzo in fiamme",
+        "slug": "reader/343",
+        "raw_cap": "343",
+        "cdn_cap": "343",
+        "cdn_vol": "39",
+        "pages_count": 27
+      },
+      {
+        "title": "Capitolo 344 - Il Villaggio delle Streghe",
+        "folder_name": "Capitolo 344 - Il Villaggio delle Streghe",
+        "slug": "reader/344",
+        "raw_cap": "344",
+        "cdn_cap": "344",
+        "cdn_vol": "39",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 345 - Gli arcimaghi",
+        "folder_name": "Capitolo 345 - Gli arcimaghi",
+        "slug": "reader/345",
+        "raw_cap": "345",
+        "cdn_cap": "345",
+        "cdn_vol": "39",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 346 - Elfheim",
+        "folder_name": "Capitolo 346 - Elfheim",
+        "slug": "reader/346",
+        "raw_cap": "346",
+        "cdn_cap": "346",
+        "cdn_vol": "39",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 347 - Il re della Tempesta Floreale",
+        "folder_name": "Capitolo 347 - Il re della Tempesta Floreale",
+        "slug": "reader/347",
+        "raw_cap": "347",
+        "cdn_cap": "347",
+        "cdn_vol": "39",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 348 - Lande tenebrose",
+        "folder_name": "Capitolo 348 - Lande tenebrose",
+        "slug": "reader/348",
+        "raw_cap": "348",
+        "cdn_cap": "348",
+        "cdn_vol": "39",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 349 - Il passaggio dei sogni",
+        "folder_name": "Capitolo 349 - Il passaggio dei sogni",
+        "slug": "reader/349",
+        "raw_cap": "349",
+        "cdn_cap": "349",
+        "cdn_vol": "39",
+        "pages_count": 16
+      },
+      {
+        "title": "Capitolo 350 - Frammenti di memoria",
+        "folder_name": "Capitolo 350 - Frammenti di memoria",
+        "slug": "reader/350",
+        "raw_cap": "350",
+        "cdn_cap": "350",
+        "cdn_vol": "39",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 40,
+    "volume_title": "Volume 40",
+    "cdn_vol": "40",
+    "chapters_count": 8,
+    "chapters": [
+      {
+        "title": "Capitolo 351 - Foresta di corpi e pini brulli",
+        "folder_name": "Capitolo 351 - Foresta di corpi e pini brulli",
+        "slug": "reader/351",
+        "raw_cap": "351",
+        "cdn_cap": "351",
+        "cdn_vol": "40",
+        "pages_count": 25
+      },
+      {
+        "title": "Capitolo 352 - La causa",
+        "folder_name": "Capitolo 352 - La causa",
+        "slug": "reader/352",
+        "raw_cap": "352",
+        "cdn_cap": "352",
+        "cdn_vol": "40",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 353 - Il frammento finale",
+        "folder_name": "Capitolo 353 - Il frammento finale",
+        "slug": "reader/353",
+        "raw_cap": "353",
+        "cdn_cap": "353",
+        "cdn_vol": "40",
+        "pages_count": 16
+      },
+      {
+        "title": "Capitolo 354 - Risveglio",
+        "folder_name": "Capitolo 354 - Risveglio",
+        "slug": "reader/354",
+        "raw_cap": "354",
+        "cdn_cap": "354",
+        "cdn_vol": "40",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 355 - Sotto gli alberi baciati dal sole",
+        "folder_name": "Capitolo 355 - Sotto gli alberi baciati dal sole",
+        "slug": "reader/355",
+        "raw_cap": "355",
+        "cdn_cap": "355",
+        "cdn_vol": "40",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 356-1 - Jotunn (parte prima)",
+        "folder_name": "Capitolo 356-1 - Jotunn (parte prima)",
+        "slug": "reader/356-1",
+        "raw_cap": "356-1",
+        "cdn_cap": "356-1",
+        "cdn_vol": "40",
+        "pages_count": 11
+      },
+      {
+        "title": "Capitolo 356-2 - Jotunn (parte seconda)",
+        "folder_name": "Capitolo 356-2 - Jotunn (parte seconda)",
+        "slug": "reader/356-2",
+        "raw_cap": "356-2",
+        "cdn_cap": "356-2",
+        "cdn_vol": "40",
+        "pages_count": 9
+      },
+      {
+        "title": "Capitolo 357 - Trionfante ritorno all'alba",
+        "folder_name": "Capitolo 357 - Trionfante ritorno all'alba",
+        "slug": "reader/357",
+        "raw_cap": "357",
+        "cdn_cap": "357",
+        "cdn_vol": "40",
+        "pages_count": 18
+      }
+    ]
+  },
+  {
+    "volume_number": 41,
+    "volume_title": "Volume 41",
+    "cdn_vol": "41",
+    "chapters_count": 7,
+    "chapters": [
+      {
+        "title": "Capitolo 358 - L'alba di un impero",
+        "folder_name": "Capitolo 358 - L'alba di un impero",
+        "slug": "reader/358",
+        "raw_cap": "358",
+        "cdn_cap": "358",
+        "cdn_vol": "41",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 359 - Un muro",
+        "folder_name": "Capitolo 359 - Un muro",
+        "slug": "reader/359",
+        "raw_cap": "359",
+        "cdn_cap": "359",
+        "cdn_vol": "41",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 360 - Il giardino di ciliegi",
+        "folder_name": "Capitolo 360 - Il giardino di ciliegi",
+        "slug": "reader/360",
+        "raw_cap": "360",
+        "cdn_cap": "360",
+        "cdn_vol": "41",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 361 - Crepaccio",
+        "folder_name": "Capitolo 361 - Crepaccio",
+        "slug": "reader/361",
+        "raw_cap": "361",
+        "cdn_cap": "361",
+        "cdn_vol": "41",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 362 - Fantasma",
+        "folder_name": "Capitolo 362 - Fantasma",
+        "slug": "reader/362",
+        "raw_cap": "362",
+        "cdn_cap": "362",
+        "cdn_vol": "41",
+        "pages_count": 14
+      },
+      {
+        "title": "Capitolo 363 - Scimmia salterina",
+        "folder_name": "Capitolo 363 - Scimmia salterina",
+        "slug": "reader/363",
+        "raw_cap": "363",
+        "cdn_cap": "363",
+        "cdn_vol": "41",
+        "pages_count": 18
+      },
+      {
+        "title": "Capitolo 364 - Una lacrima come rugiada del mattino",
+        "folder_name": "Capitolo 364 - Una lacrima come rugiada del mattino",
+        "slug": "reader/364",
+        "raw_cap": "364",
+        "cdn_cap": "364",
+        "cdn_vol": "41",
+        "pages_count": 39
+      }
+    ]
+  },
+  {
+    "volume_number": 42,
+    "volume_title": "Volume 42",
+    "cdn_vol": "42",
+    "chapters_count": 8,
+    "chapters": [
+      {
+        "title": "Capitolo 365 - La calma della luna calante",
+        "folder_name": "Capitolo 365 - La calma della luna calante",
+        "slug": "reader/365",
+        "raw_cap": "365",
+        "cdn_cap": "365",
+        "cdn_vol": "42",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 366 - L’Occhio del Malestrom",
+        "folder_name": "Capitolo 366 - L’Occhio del Malestrom",
+        "slug": "reader/366",
+        "raw_cap": "366",
+        "cdn_cap": "366",
+        "cdn_vol": "42",
+        "pages_count": 14
+      },
+      {
+        "title": "Capitolo 367 - La nebbia si dirada mentre cadono i fiori di ciliegio",
+        "folder_name": "Capitolo 367 - La nebbia si dirada mentre cadono i fiori di ciliegio",
+        "slug": "reader/367",
+        "raw_cap": "367",
+        "cdn_cap": "367",
+        "cdn_vol": "42",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 368 - Divoratori",
+        "folder_name": "Capitolo 368 - Divoratori",
+        "slug": "reader/368",
+        "raw_cap": "368",
+        "cdn_cap": "368",
+        "cdn_vol": "42",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 369 - L'Isola Effimera",
+        "folder_name": "Capitolo 369 - L'Isola Effimera",
+        "slug": "reader/369",
+        "raw_cap": "369",
+        "cdn_cap": "369",
+        "cdn_vol": "42",
+        "pages_count": 15
+      },
+      {
+        "title": "Capitolo 370 - I rifugiati dal mare occidentale",
+        "folder_name": "Capitolo 370 - I rifugiati dal mare occidentale",
+        "slug": "reader/370",
+        "raw_cap": "370",
+        "cdn_cap": "370",
+        "cdn_vol": "42",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 371 - Una luce sbiadita nell'opprimente oscurità della notte",
+        "folder_name": "Capitolo 371 - Una luce sbiadita nell'opprimente oscurità della notte",
+        "slug": "reader/371",
+        "raw_cap": "371",
+        "cdn_cap": "371",
+        "cdn_vol": "42",
+        "pages_count": 17
+      },
+      {
+        "title": "Capitolo 372 - Il corvo rosso dorme in gabbia",
+        "folder_name": "Capitolo 372 - Il corvo rosso dorme in gabbia",
+        "slug": "reader/372",
+        "raw_cap": "372",
+        "cdn_cap": "372",
+        "cdn_vol": "42",
+        "pages_count": 22
+      }
+    ]
+  },
+  {
+    "volume_number": 43,
+    "volume_title": "Volume 43",
+    "cdn_vol": "43",
+    "chapters_count": 11,
+    "chapters": [
+      {
+        "title": "Capitolo 373 - Gli anelli di ferro arrugginito che vincolano",
+        "folder_name": "Capitolo 373 - Gli anelli di ferro arrugginito che vincolano",
+        "slug": "reader/373",
+        "raw_cap": "373",
+        "cdn_cap": "373",
+        "cdn_vol": "43",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 374 - La nera bestia dormente sta aspettando il suo momento",
+        "folder_name": "Capitolo 374 - La nera bestia dormente sta aspettando il suo momento",
+        "slug": "reader/374",
+        "raw_cap": "374",
+        "cdn_cap": "374",
+        "cdn_vol": "43",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 375 - L'alba sorge sull'incrollabile nebbia notturna",
+        "folder_name": "Capitolo 375 - L'alba sorge sull'incrollabile nebbia notturna",
+        "slug": "reader/375",
+        "raw_cap": "375",
+        "cdn_cap": "375",
+        "cdn_vol": "43",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 376 - La tremolante superficie del mare e l'ombra rovinosa della guerra",
+        "folder_name": "Capitolo 376 - La tremolante superficie del mare e l'ombra rovinosa della guerra",
+        "slug": "reader/376",
+        "raw_cap": "376",
+        "cdn_cap": "376",
+        "cdn_vol": "43",
+        "pages_count": 19
+      },
+      {
+        "title": "Capitolo 377 - Serpe in seno",
+        "folder_name": "Capitolo 377 - Serpe in seno",
+        "slug": "reader/377",
+        "raw_cap": "377",
+        "cdn_cap": "377",
+        "cdn_vol": "43",
+        "pages_count": 25
+      },
+      {
+        "title": "Capitolo 378 - L'assasino invitato",
+        "folder_name": "Capitolo 378 - L'assasino invitato",
+        "slug": "reader/378",
+        "raw_cap": "378",
+        "cdn_cap": "378",
+        "cdn_vol": "43",
+        "pages_count": 25
+      },
+      {
+        "title": "Capitolo 379 - Coloro che danzano nelle viscere degli Inferi",
+        "folder_name": "Capitolo 379 - Coloro che danzano nelle viscere degli Inferi",
+        "slug": "reader/379",
+        "raw_cap": "379",
+        "cdn_cap": "379",
+        "cdn_vol": "43",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 380 - Le ombre muoiono due volte",
+        "folder_name": "Capitolo 380 - Le ombre muoiono due volte",
+        "slug": "reader/380",
+        "raw_cap": "380",
+        "cdn_cap": "380",
+        "cdn_vol": "43",
+        "pages_count": 20
+      },
+      {
+        "title": "Capitolo 381 - Una falce di luna splende sulla schiena dell'esule",
+        "folder_name": "Capitolo 381 - Una falce di luna splende sulla schiena dell'esule",
+        "slug": "reader/381",
+        "raw_cap": "381",
+        "cdn_cap": "381",
+        "cdn_vol": "43",
+        "pages_count": 22
+      },
+      {
+        "title": "Capitolo 382 - Sepolcro",
+        "folder_name": "Capitolo 382 - Sepolcro",
+        "slug": "reader/382",
+        "raw_cap": "382",
+        "cdn_cap": "382",
+        "cdn_vol": "43",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 383 - Anadi-avidya (Ignoranza primordiale)",
+        "folder_name": "Capitolo 383 - Anadi-avidya (Ignoranza primordiale)",
+        "slug": "reader/383",
+        "raw_cap": "383",
+        "cdn_cap": "383",
+        "cdn_vol": "43",
+        "pages_count": 23
+      }
+    ]
+  },
+  {
+    "volume_number": 44,
+    "volume_title": "Volume 44",
+    "cdn_vol": "44",
+    "chapters_count": 4,
+    "chapters": [
+      {
+        "title": "Capitolo 384 - Lo specchio d'acqua increspato e l'ultimo chiarore spettrale",
+        "folder_name": "Capitolo 384 - Lo specchio d'acqua increspato e l'ultimo chiarore spettrale",
+        "slug": "reader/384",
+        "raw_cap": "384",
+        "cdn_cap": "384",
+        "cdn_vol": "44",
+        "pages_count": 24
+      },
+      {
+        "title": "Capitolo 385 - La marea cambia",
+        "folder_name": "Capitolo 385 - La marea cambia",
+        "slug": "reader/385",
+        "raw_cap": "385",
+        "cdn_cap": "385",
+        "cdn_vol": "44",
+        "pages_count": 21
+      },
+      {
+        "title": "Capitolo 386 - Si può ghermire un uccello migratore tra le nubi?",
+        "folder_name": "Capitolo 386 - Si può ghermire un uccello migratore tra le nubi",
+        "slug": "reader/386",
+        "raw_cap": "386",
+        "cdn_cap": "386",
+        "cdn_vol": "44",
+        "pages_count": 23
+      },
+      {
+        "title": "Capitolo 387 -(Disponibile ??)",
+        "folder_name": "Capitolo 387 -(Disponibile )",
+        "slug": "reader/387",
+        "raw_cap": "387",
+        "cdn_cap": "387",
+        "cdn_vol": "44",
+        "pages_count": 22
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="surface_variant">#FF2A2A2A</color>
+    <color name="berserk_red">#FFE50914</color>
+    <color name="berserk_red_dark">#FF8B0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_secondary">#FFAAAAAA</color>
+</resources>
